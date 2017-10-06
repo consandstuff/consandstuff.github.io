@@ -1,7 +1,4 @@
----
-title: IIDX CON (new)
-header:   <a target="_blank" href=http://consandstuff.github.io><img src="http://i.imgur.com/f0vDPlL.png" alt="CONS&STUFF" /></a>
----
+
 
 -----
 You can use the [editor on GitHub](https://github.com/consandstuff/consandstuff.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

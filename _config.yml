@@ -1,8 +1,3 @@
 theme: jekyll-theme-slate
 title: CONS&STUFF
 description: Rhythm controllers DIY guides
-
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value

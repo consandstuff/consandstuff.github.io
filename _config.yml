@@ -2,7 +2,6 @@ theme: jekyll-theme-slate
 title: CONS&STUFF
 description: Rhythm controllers DIY guides
 
-# File: _config.yml
 webrick:
   headers:
     My-Header: My-Value

@@ -1,3 +1,9 @@
 theme: jekyll-theme-slate
 title: CONS&STUFF
-description: Guide to make your own rhythm game controller, and other stuff.
+description: Rhythm controllers DIY guides
+
+# File: _config.yml
+webrick:
+  headers:
+    My-Header: My-Value
+    My-Other-Header: My-Other-Value

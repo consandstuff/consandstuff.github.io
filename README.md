@@ -4,18 +4,11 @@
 I'll try to explain most of these things so you can build your own controller from scratch. 
 Feel free to comment on any project on my discord server https://discord.gg/fknwz8s
 
-
-<iframe style=center src="https://discordapp.com/widget?id=101851954677837824&theme=dark" width="350" height="350" allowtransparency="true" frameborder="0"></iframe>
-
-
-
 ----------
-
 
 # SOUND VOLTEX CONTROLLERS
 
 ## Sound Voltex Simple Edition (SVSE) style controller
-
 These are instructions to make a 49x25x10cm controller to play Soundvoltex on your computer. The controller right now is a work in progress (as of May 24th 2017) but it should work with kshootmania or other Sound Voltex PC games. 
 
 The controller is made out of MDF wood and acrylic on top and on the sides. It includes both knobs and 7 buttons spaced like an arcade.

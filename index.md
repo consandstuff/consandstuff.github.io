@@ -28,7 +28,7 @@ The controller is made out of MDF wood and acrylic on top and on the sides. It i
 
 [Click here for instructions](http://sdvx-diy.pancakeapps.com/)
 
-<img style='width: 350px' src='http://consandstuff.pancakeapps.com/IMG/001SDVX.png'></img> <img style='width: 350px' src='http://i.imgur.com/JQ6FD6F.jpg'></img> 
+<img style='width: 350px' src='http://i.imgur.com/JQ6FD6F.jpg'></img> 
 
 ## Sound Voltex Minicon
 
@@ -36,16 +36,7 @@ The controller size is 20x20x7cm and the USB cable can be unplugged from the out
 
 [Click here for instructions](http://consandstuff.pancakeapps.com/SOUNDVOLTEX/minicon)
 
-<img style='width: 300px' src='http://i.imgur.com/ThOg59V.png'></img><img style='width: 400px' src='http://consandstuff.pancakeapps.com/IMG/002MINICON.jpg'></img>
-
-## Sound Voltex Micro-con ??
-
-WORK IN PROGRESS (as of 05-23-2017)
-This will be a 15x10cm really small controller. Built to give hand cramps and amaze your co-workers! 
-
-I'll be using smaller buttons that are also shorter than normal IIDX or SDVX buttons, that way the controller will be (I think) close to 3 or 4cm in height, much smaller than the 7cm minicon, or the 10 cm normal controller.
-
-I'm in the process of design yet, so it'll be a while.
+<img style='width: 300px' src='http://i.imgur.com/ThOg59V.png'></img>
 
 ----------
 
@@ -59,7 +50,7 @@ This is the first controller I made. The measures for the controller and the but
 [Click here for instructions](http://iidx-diy.pancakeapps.com/)
 
 
-<img style='width: 300px' src='http://consandstuff.pancakeapps.com/IMG/IIDX.png'></img><img style='width: 400px' src='http://consandstuff.pancakeapps.com/IMG/003IIDX.jpg'></img>
+<img style='width: 300px' src='http://consandstuff.pancakeapps.com/IMG/IIDX.png'></img>
 
 ### Beatmania MINI-IIDX (?)
 
@@ -74,7 +65,6 @@ The controller is pretty much the same as the Beatmania controller, but the keyp
 
 [Click here for instructions](http://consandstuff.pancakeapps.com/IIDX/HYBRID)
 
-<img style='width: 400px' src='http://consandstuff.pancakeapps.com/IMG/004HYBRID.png'></img>
 
 # OTHER CONTROLLERS
 
@@ -99,7 +89,15 @@ BUT if you feel like giving me a beer for my hard work collecting this informati
 </form>
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107694000-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-107694000-1');
+</script>
 
 
 

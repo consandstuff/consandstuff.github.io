@@ -4,28 +4,13 @@ header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="
 blank: true
 css: http://consandstuff.pancakeapps.com/chalkboardneo.css
 --->
-<meta name="google-site-verification" content="okXtFV-VkvkZ581byuiPj2tQ2rG9vhwU1tTfVjAmD0Q" />
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-12932173-4', 'auto');
-  ga('send', 'pageview');
-
-</script>
 
 # About
 
 *Controllers & Stuff* is a compilation of many controllers and other things I've made. 
 I'll try to explain most of these things so you can build your own controller from scratch. 
 Feel free to comment on any project on my discord server https://discord.gg/fknwz8s
-
-
-<iframe style=center src="https://discordapp.com/widget?id=101851954677837824&theme=dark" width="350" height="350" allowtransparency="true" frameborder="0"></iframe>
-
 
 
 ----------

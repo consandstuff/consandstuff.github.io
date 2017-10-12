@@ -9,7 +9,7 @@ title: IIDX CON (OLD)
 
 This is the documentation for a DIY Beatmania IIDX Controller made out of a Wood, Acrylic, Chinese Buttons and a Arduino Leonardo.
 
-![pic003](http://iidx-diy.pancakeapps.com/pics/pic003.png)
+![pic003](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png)
 
 You're watching the old version of this guide.
 For the latest revision go here [**Latest revision**](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/index.md)

@@ -4,6 +4,11 @@
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#ffffff">
 
+# Notice
+
+>I'm migrating the webpage from Pancake.io to github pages so it's posible that some links might not work at all, or some images might be missing. Please be patient.
+>Octobre 12th 2017
+
 
 # About
 

@@ -225,84 +225,22 @@ The pins are assigned to every button and encoder. You'll see that the PCB has m
 **Beatmania IIDX pin layout**
 
 
-<table><thead>
-<tr>
-<th>Button</th>
-<th style="text-align: center">Pin #</th>
-<th style="text-align: center">Button #</th>
-<th style="text-align: center">LED Pin #</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Start</td>
-<td style="text-align: center">11</td>
-<td style="text-align: center">Button 8</td>
-<td style="text-align: center">2</td>
-</tr>
-<tr>
-<td>VFX</td>
-<td style="text-align: center">12</td>
-<td style="text-align: center">Button 9</td>
-<td style="text-align: center">3</td>
-</tr>
-<tr>
-<td>Button 1</td>
-<td style="text-align: center">13</td>
-<td style="text-align: center">Button 1</td>
-<td style="text-align: center">4</td>
-</tr>
-<tr>
-<td>Button 2</td>
-<td style="text-align: center">A0</td>
-<td style="text-align: center">Button 2</td>
-<td style="text-align: center">5</td>
-</tr>
-<tr>
-<td>Button 3</td>
-<td style="text-align: center">A1</td>
-<td style="text-align: center">Button 3</td>
-<td style="text-align: center">6</td>
-</tr>
-<tr>
-<td>Button 4</td>
-<td style="text-align: center">A2</td>
-<td style="text-align: center">Button 4</td>
-<td style="text-align: center">7</td>
-</tr>
-<tr>
-<td>Button 5</td>
-<td style="text-align: center">A3</td>
-<td style="text-align: center">Button 5</td>
-<td style="text-align: center">8</td>
-</tr>
-<tr>
-<td>Button 6</td>
-<td style="text-align: center">A4</td>
-<td style="text-align: center">Button 6</td>
-<td style="text-align: center">9</td>
-</tr>
-<tr>
-<td>Button 7</td>
-<td style="text-align: center">A5</td>
-<td style="text-align: center">Button 7</td>
-<td style="text-align: center">10</td>
-</tr>
-</tbody></table>
+| Button   	| Pin # 	| Button # 	| LED Pin # 	|
+|----------	|-------	|----------	|-----------	|
+| Start    	| 11    	| Button 8 	| 2         	|
+| VFX      	| 12    	| Button 9 	| 3         	|
+| Button 1 	| 13    	| Button 1 	| 4         	|
+| Button 2 	| A0    	| Button 2 	| 5         	|
+| Button 3 	| A1    	| Button 3 	| 6         	|
+| Button 4 	| A2    	| Button 4 	| 7         	|
+| Button 5 	| A3    	| Button 5 	| 8         	|
+| Button 6 	| A4    	| Button 6 	| 9         	|
+| Button 7 	| A5    	| Button 7 	| 10        	|
 
 
-<table><thead>
-<tr>
-<th>ENCODERS</th>
-<th style="text-align: center">DATA 1</th>
-<th style="text-align: center">DATA 2</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Encoder Tuntable
-<td style="text-align: center">0</td>
-<td style="text-align: center">1</td>
-</tr>
-</tbody></table>
+| ENCODERS         	| DATA 1 	| DATA 2 	|
+|------------------	|--------	|--------	|
+| Encoder Tuntable 	| 0      	| 1      	|
 
 That leaves pins 2 to 10 for LEDS (9 LEDS, enough for each button)
 

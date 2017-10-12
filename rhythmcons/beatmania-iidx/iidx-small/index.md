@@ -110,7 +110,7 @@ Read the notes at the end of each item so you know some negative things about ea
 
 | ITEM             	| IMAGE                                       	| QUANTITY  	| LINKS           	| | NOTES                                               	|
 |------------------	|---------------------------------------------	|-----------	|-----------------	|-------------------------------------------------------	|
-| Arduino Leonardo 	| ![Leonardo](http://i.imgur.com/U1CyitI.jpg) 	| 1         	| DealExtremeEbay 	| Try local stores. They’re usually cheaper and closer. 	|
+| Arduino Leonardo 	| <img src="http://i.imgur.com/U1CyitI.jpg" width="50"> 	| 1         	| DealExtremeEbay 	| Try local stores. They’re usually cheaper and closer. 	|
 |                  	|                                             	|           	|                 	|                                                       	|
 |                  	|                                             	|           	|                 	|                                                       	|
 |                  	|                                             	|           	|                 	|                                                       	|

@@ -9,11 +9,11 @@ header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="
 >Completed: July 14th 2017
 
 <div style='float: center'>
-  <img style='width: 400px' src=http://consandstuff.pancakeapps.com/other/Arcade%20con/arcadecon1.jpg></img>
+  <img style='width: 400px' src=http://consandstuff.github.io/othercons/arcade-con/arcadecon1.jpg></img>
 </div>
 
 <div style='float: center'>
-  <img style='width: 400px' src=http://consandstuff.pancakeapps.com/other/Arcade%20con/arcadecon2.jpg></img>
+  <img style='width: 400px' src=http://consandstuff.github.io/othercons/arcade-con/arcadecon2.jpg></img>
 </div>
 
 ## Other Projects:

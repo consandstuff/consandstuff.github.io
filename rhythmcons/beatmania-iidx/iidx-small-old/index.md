@@ -12,7 +12,7 @@ This is the documentation for a DIY Beatmania IIDX Controller made out of a Wood
 ![pic003](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png)
 
 You're watching the old version of this guide.
-For the latest revision go here [**Latest revision**](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/index.md)
+For the latest revision go here [**Latest revision**](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/)
 
 <hr>
 
@@ -29,10 +29,10 @@ For the latest revision go here [**Latest revision**](http://consandstuff.github
 
 # Other Projects:
 
-1. [Sound Voltex PC Controller](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/index.md)
-2. [IIDX - SDVX Hybrid Controller (incomplete)](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid/index.md)
-3. [SDVX Minicon for $90](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon/index.md)
-4. [Small Arcade Controller](http://consandstuff.github.io/othercons/arcade-con/index.md)
+1. [Sound Voltex PC Controller](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/)
+2. [IIDX - SDVX Hybrid Controller (incomplete)](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid/)
+3. [SDVX Minicon for $90](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon/)
+4. [Small Arcade Controller](http://consandstuff.github.io/othercons/arcade-con/)
 
 <hr>
 

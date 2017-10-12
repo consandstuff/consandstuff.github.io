@@ -18,9 +18,9 @@ Concept art. Banana for scale.
 
 ## Other Projects:
 
-1. [Beatmania IIDX Controller, with CAD files to make the box look amazing](http://IIDX-DIY.pancakeapps.com/)
-2. [IIDX - SDVX Hybrid Controller (incomplete)](http://iidxsdvx.pancakeapps.com/)
-3. [Soundvoltex Controller (normal size)](http://sdvx-diy.pancakeapps.com/)
+1. [Beatmania IIDX Controller, with CAD files to make the box look amazing](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/)
+2. [IIDX - SDVX Hybrid Controller (incomplete)](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid/)
+3. [Soundvoltex Controller (normal size)](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/)
 
 <hr>
 
@@ -39,9 +39,9 @@ Concept art. Banana for scale.
 
 ## Details
 
-In this guide I'll explain most tof the stuff you need to know to make a affordable Sound Voltex mini controller (minicon from now on). The controller will feature the same 7 buttons and 2 knobs as the arcade, but in a smaller package. The final size of this controller is 20x20x7cm.
+In this guide I'll explain most of the stuff you need to know to make a affordable Sound Voltex mini controller (minicon from now on). The controller will feature the same 7 buttons and 2 knobs as the arcade, but in a smaller package. The final size of this controller is 20x20x7cm.
 
-This instructions for a minicon would also work to make a normal size controller, because they're basically the same thing, except the buttons are different and the acrylic is smaller in the minicon. If you're looking for a normal size SDVX controller [check this other guide I'm making](http://sdvx-diy.pancakeapps.com/)
+This instructions for a minicon would also work to make a normal size controller, because they're basically the same thing, except the buttons are different and the acrylic is smaller in the minicon. If you're looking for a normal size SDVX controller [check this other guide](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/)
 
 Now on to the controller.
 
@@ -67,7 +67,7 @@ The code and CAD files included will let you make a SOUND VOLTEX minicon using a
 ## Code and CAD files
 
 Code here:
-https://github.com/lizardbeans/sdvxminicon
+[https://github.com/lizardbeans/sdvxminicon](https://github.com/lizardbeans/sdvxminicon)
 
 Included in the Github page there's a CAD file that includes everything you need to make the box of the controller.
 
@@ -113,7 +113,8 @@ Tools:
 - electric drill
 
 Skills:
-- drilling- jigsaw-ing
+- drilling
+- jigsaw-ing
 - sanding
 - soldering
 
@@ -124,7 +125,7 @@ Imperial: 7.9"x7.9"x2.7" (7.9x7.9x3.5" to the top of the knob)
 
 ### Links to everything (except tools and skills)
 
-####PCB 
+#### PCB 
 
 * [Aurduino Leonardo](http://www.ebay.com/itm/Leonardo-R3-Pro-Micro-ATmega32U4-Board-Arduino-Compatible-IDE-free-USB-cable-/201499040028)
 
@@ -183,16 +184,17 @@ You can buy 50g. switches if you feel like SANWA's are too stiff.
 
 <hr>
 
-<script type="text/javascript">
-    google_ad_client = "ca-pub-8300362063942355";
-    google_ad_slot = "9766155536";
-    google_ad_width = 728;
-    google_ad_height = 90;
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8300362063942355"
+     data-ad-slot="2993192877"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<!-- Ad01 -->
-<script type="text/javascript"
-src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+
 <hr>
 
 ## Part List / Building Materials
@@ -290,80 +292,20 @@ Finally upload the code into the Leonardo PCB and try each button in case you me
 
 **PIN LAYOUT**
 
-<table><thead>
-<tr>
-<th>Button</th>
-<th style="text-align: center">Pin #</th>
-<th style="text-align: center">Button #</th>
-<th style="text-align: center">LED Pin #</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Start</td>
-<td style="text-align: center">13</td>
-<td style="text-align: center">Button 1</td>
-<td style="text-align: center">6</td>
-</tr>
-<tr>
-<td>BT-A</td>
-<td style="text-align: center">A0</td>
-<td style="text-align: center">Button 2</td>
-<td style="text-align: center">7</td>
-</tr>
-<tr>
-<td>FX-L</td>
-<td style="text-align: center">A1</td>
-<td style="text-align: center">Button 3</td>
-<td style="text-align: center">8</td>
-</tr>
-<tr>
-<td>BT-B</td>
-<td style="text-align: center">A2</td>
-<td style="text-align: center">Button 4</td>
-<td style="text-align: center">9</td>
-</tr>
-<tr>
-<td>BT-C</td>
-<td style="text-align: center">A3</td>
-<td style="text-align: center">Button 5</td>
-<td style="text-align: center">10</td>
-</tr>
-<tr>
-<td>FX-R</td>
-<td style="text-align: center">A4</td>
-<td style="text-align: center">Button 6</td>
-<td style="text-align: center">11</td>
-</tr>
-<tr>
-<td>BT-D</td>
-<td style="text-align: center">A5</td>
-<td style="text-align: center">Button 7</td>
-<td style="text-align: center">12</td>
-</tr>
-</tbody></table>
+| Button 	| Pin # 	| Button # 	| LED Pin # 	|
+|--------	|-------	|----------	|-----------	|
+| Start  	| 13    	| Button 1 	| 6         	|
+| BT-A   	| A0    	| Button 2 	| 7         	|
+| FX-L   	| A1    	| Button 3 	| 8         	|
+| BT-B   	| A2    	| Button 4 	| 9         	|
+| BT-C   	| A3    	| Button 5 	| 10        	|
+| FX-R   	| A4    	| Button 6 	| 11        	|
+| BT-D   	| A5    	| Button 7 	| 12        	|
 
-
-<table><thead>
-<tr>
-<th>ENCODERS</th>
-<th style="text-align: center">DATA 1</th>
-<th style="text-align: center">DATA 2</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Left knob (VOL-L)
-<td style="text-align: center">0</td>
-<td style="text-align: center">1</td>
-</tr>
-<tr>
-<td>Right knob (VOL-R)
-<td style="text-align: center">2</td>
-<td style="text-align: center">3</td>
-</tr>
-</tbody></table>
-
-
-
+| ENCODERS           	| DATA 1 	| DATA 2 	|
+|--------------------	|--------	|--------	|
+| Left knob (VOL-L)  	| 0      	| 1      	|
+| Right knob (VOL-R) 	| 2      	| 3      	|
 
 <hr>
 
@@ -399,7 +341,7 @@ Send me pictures of your controller on Discord and I'll post them here!
 
 Any questions, troubleshooting or tips? Try my Discord server:
 
-https://discord.gg/fknwz8s
+[Discord server](https://discord.gg/fknwz8s)
 
 ## Donations
 
@@ -414,28 +356,6 @@ BUT if you feel like giving me a beer for my hard work collecting this informati
 </form>
 
 --------
-## Comments
-
-<div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://consandstuff.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107694000-1"></script>

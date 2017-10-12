@@ -24,7 +24,7 @@ These are instructions to make a 49x25x10cm controller to play Soundvoltex on yo
 
 The controller is made out of MDF wood and acrylic on top and on the sides. It includes both knobs and 7 buttons spaced like an arcade.
 
-[Click here for instructions](http://sdvx-diy.pancakeapps.com/)
+[Click here for instructions](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/index.md)
 
 <img style='width: 350px' src='http://i.imgur.com/JQ6FD6F.jpg'></img> 
 
@@ -32,7 +32,7 @@ The controller is made out of MDF wood and acrylic on top and on the sides. It i
 
 The controller size is 20x20x7cm and the USB cable can be unplugged from the outside.
 
-[Click here for instructions](http://consandstuff.pancakeapps.com/SOUNDVOLTEX/minicon)
+[Click here for instructions](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon/index.md)
 
 <img style='width: 300px' src='http://i.imgur.com/ThOg59V.png'></img>
 
@@ -45,7 +45,7 @@ The controller size is 20x20x7cm and the USB cable can be unplugged from the out
 
 This is the first controller I made. The measures for the controller and the buttons were really hard to get. I took information from various chinese blogs and some from the DJDAO website until I came with what the controller is now. The only thing that bothers me with this design is the turntable, because it's made using a rotary encoder instead of an optic encoder like DJDAO's, mostly because those parts are harder to get and are a little more expensive. Still, the turntable works great.
 
-[Click here for instructions](http://iidx-diy.pancakeapps.com/)
+[Click here for instructions](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/index.md)
 
 
 <img style='width: 300px' src='http://consandstuff.pancakeapps.com/IMG/IIDX.png'></img>
@@ -61,7 +61,7 @@ This is an incomplete failure of a controller. I tried to make a controller that
 
 The controller is pretty much the same as the Beatmania controller, but the keypad has holes for 2 extra FX buttons and 2 knobs.
 
-[Click here for instructions](http://consandstuff.pancakeapps.com/IIDX/HYBRID)
+[Click here for instructions](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid/index.md)
 
 
 # OTHER CONTROLLERS

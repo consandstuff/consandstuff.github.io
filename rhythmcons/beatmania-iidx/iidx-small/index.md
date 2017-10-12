@@ -108,22 +108,22 @@ Read the notes at the end of each item so you know some negative things about ea
 
 ##For Arduino LEONARDO
 
-| ITEM             	| IMAGE                                       	| QUANTITY  	| LINKS           	| | NOTES                                               	|
-|------------------	|---------------------------------------------	|-----------	|-----------------	|-------------------------------------------------------	|
-| Arduino Leonardo 	| <img src="http://i.imgur.com/U1CyitI.jpg" width="50"> 	| 1         	| DealExtremeEbay 	| Try local stores. They’re usually cheaper and closer. 	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
-|                  	|                                             	|           	|                 	|                                                       	|
+| ITEM             	| IMAGE                                       		| QUANTITY  	| LINKS           	| | NOTES                                               	|
+|------------------	|---------------------------------------------		|-----------	|-----------------	|-------------------------------------------------------	|
+| Arduino Leonardo 	| <img src="http://i.imgur.com/U1CyitI.jpg" width="150">| 1         	| [DealExtreme](http://www.dx.com/p/diy-leonardo-r3-module-for-arduino-works-with-official-arduino-boards-blue-376823#.WH4Ie_nhAVA)            [Ebay](http://www.ebay.com/itm/Leonardo-R3-development-board-Board-USB-Cable-compatible-for-arduino-/131785751446?hash=item1eaf0afb96:g:gA4AAOSwAoRXFW1g)     	| Try local stores. They’re usually cheaper and closer. 	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
+|                  	|                                             		|           	|                 	|                                                       	|
 
 
 

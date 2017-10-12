@@ -10,11 +10,11 @@ title: IIDX CON (new)
 
 ![thumbnail](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png)
 
-Old version can be found here: [OLD VERSION](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/index.md)
+Old version can be found here: [OLD VERSION](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/)
 <hr>
 
 **How to make a better turntable??**
-Go to: [Tunrtable MOD](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/turntable/index.md)
+Go to: [Tunrtable MOD](https://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/turntable/)
 
 # Index
 
@@ -29,10 +29,10 @@ Go to: [Tunrtable MOD](http://consandstuff.github.io/rhythmcons/beatmania-iidx/i
 
 # Other Projects:
 
-1. [Sound Voltex PC Controller](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/index.md)
-2. [IIDX - SDVX Hybrid Controller (incomplete)](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid/index.md)
-3. [Sound Voltex Minicon](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon/index.md)
-4. [Small Arcade Controller](http://consandstuff.github.io/othercons/arcade-con/index.md)
+1. [Sound Voltex PC Controller](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/)
+2. [IIDX - SDVX Hybrid Controller (incomplete)](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid/)
+3. [Sound Voltex Minicon](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon/)
+4. [Small Arcade Controller](http://consandstuff.github.io/othercons/arcade-con/)
 
 <hr>
 

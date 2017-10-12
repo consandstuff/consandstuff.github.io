@@ -1,6 +1,5 @@
 ---
-title: IIDX CON (old)
-header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="http://i.imgur.com/f0vDPlL.png" alt="CONS&STUFF" /></a>
+title: IIDX CON (OLD)
 ---
 
 # DIY Beatmania IIDX PC Controller (OLD VERSION)
@@ -10,11 +9,10 @@ header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="
 
 This is the documentation for a DIY Beatmania IIDX Controller made out of a Wood, Acrylic, Chinese Buttons and a Arduino Leonardo.
 
-<div style='float: center'>
-  <img style='width: 400px' src='http://iidx-diy.pancakeapps.com/pics/pic003.png'></img>
-</div>
+![pic003](http://iidx-diy.pancakeapps.com/pics/pic003.png)
 
-For the latest revision click here: http://iidx-diy.pancakeapps.com/
+You're watching the old version of this guide.
+For the latest revision go here [**Latest revision**](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/index.md)
 
 <hr>
 
@@ -31,15 +29,16 @@ For the latest revision click here: http://iidx-diy.pancakeapps.com/
 
 # Other Projects:
 
-1. [Sound Voltex PC Controller](http://SDVX-DIY.pancakeapps.com/)
-2. [IIDX - SDVX Hybrid Controller (incomplete)](http://iidxsdvx.pancakeapps.com/)
-3. [SDVX Minicon for $90](http://SDVX-DIY.pancakeapps.com/minicon)
+1. [Sound Voltex PC Controller](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/index.md)
+2. [IIDX - SDVX Hybrid Controller (incomplete)](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid/index.md)
+3. [SDVX Minicon for $90](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon/index.md)
+4. [Small Arcade Controller](http://consandstuff.github.io/othercons/arcade-con/index.md)
 
 <hr>
 
 ## Introduction
 
-This tutorial consists in a step by step instructions to make a Beatmania IIDX Controller for PC. The final product will resemble a DJDAO FPS in its dimensions and keyboard layout.
+This tutorial is a a step by step instructions to make a Beatmania IIDX Controller for PC. The final product will resemble a DJDAO FPS in its dimensions and keyboard layout.
 
 The source of the information was collected by me, and I also used info from other places.
 
@@ -56,14 +55,14 @@ Included in this tutorial you can make this model:
 - Beatmania IIDX Controller (9 buttons + Turntable + 9 LEDs)
 
 
-  <img style='width: 300px' src='http://iidx-diy.pancakeapps.com/pics/pic003.png'></img>
+  ![controller](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png)
 
 
 <hr> 
 
 ## Code
 
-Initial code and CAD file here
+Code and CAD file here
 
 https://github.com/lizardbeans/diy-iidx
 
@@ -75,7 +74,7 @@ Most of these links are from chinese webpages that give world-wide free shipping
 
 ### Arduino
 
-  <img style='width: 250px' src='http://iidx-diy.pancakeapps.com/pics/pic004.jpg'></img>
+![controller](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic004.jpg)
 
 
 [Arduino Leonardo **$10** Chinese shop](http://www.dx.com/p/diy-leonardo-r3-module-for-arduino-works-with-official-arduino-boards-blue-376823#.WH4Ie_nhAVA)
@@ -87,7 +86,7 @@ You can also use a Teensy 3.2. Code is not included for a teensy PCB though.
 
 ### Encoders
 
-  <img style='width: 200px' src='http://iidx-diy.pancakeapps.com/pics/pic005.png'></img>
+ ![encoder](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic005.png)
 
 [High Quality rotary Encoders (600ppm) **$10**](https://es.aliexpress.com/item/Encoder-600-P-R-5V-24V-Incremental-Rotary-AB-2-Phase-6mm-Shaft-Coupling-New/32700147870.html?spm=2114.13010608.0.0.3phRJQ)
 This one is for the turntable. Alternatively you can use optical encoders, but those are not included in the code, nor do I know how to use them.
@@ -129,7 +128,7 @@ Original Arcade Feel = 100g spring + 50g microswitch
 [Jumper Wires **$9**](http://www.dx.com/p/pvc-male-to-female-arduino-dupont-cables-multicolored-30cm-307052#.WH4I3_nhAVA)
 Jumper wires are cheap and you can buy them locally or in china, and will make this work 200% easier. 40 cm long male-female jumper wires are ok, you'll need one for each conection, so it'll be 4 per button (36 total) and 3 per encoder (6 total).
 
-  <img style='width: 200px' src='http://iidx-diy.pancakeapps.com/pics/pic008.png'></img>
+![crimp](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic008.png)
 
 [Crimp conectors 50 pcs. **$5**](http://www.dx.com/p/6-3mm-female-spade-crimp-terminal-connector-set-w-waterproof-covers-silver-50-pcs-202529#.WH4I_PnhAVA)
 Solder these to the jumper cables to make it easier to change microswitches if they fail.You can also buy them on your local hardware store.
@@ -146,27 +145,27 @@ You will also need:
 Most of these parts should be CNC cut or laser cut (which is a little expensive). You can also use a cardboard box or wood planks.
 I used clear acrylic because it's cheaper, also using only one thickness will make it even less expensive.
 
-  <img style='width: 200px' src='http://iidx-diy.pancakeapps.com/pics/pic009.png'></img>
+![main](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic009.png)
   
 **Main mounting plate**
 * 3 or 5mm Black/Clear Acrylic with holes for button pad and disc encoder, also screw holes. I used 5mm clear acrylic, but I found out it's better to use 3mm black acrylic fr the DJDAO FPS look.
 
-  <img style='width: 200px' src='http://iidx-diy.pancakeapps.com/pics/pic010.png'></img>
+![pad](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic010.png)
   
 **Button pads**
 * 5mm Black/Clear acrylic with holes for buttons and encoders. Black looks way better, I used clear.
 
-  <img style='width: 200px' src='http://iidx-diy.pancakeapps.com/pics/pic011.png'></img>
+![base](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic011.png)
   
 **Turntable mounting plate**
 * 5mm Clear acrylic with holes for encoder and screws.
 
-  <img style='width: 200px' src='http://iidx-diy.pancakeapps.com/pics/pic012.png'></img>
+![base2](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic012.png)
   
 **Turntable base**
 * 10mm (or 2x5mm) round discs with holes for encoder and mounting screws. Use this base to bring your turntable to your desirable height.
 
-  <img style='width: 200px' src='http://iidx-diy.pancakeapps.com/pics/pic013.png'></img>
+![disc](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic013.png)
   
 **Turntable disc**
 * 3mm or 5mm round disc with hole to fit the encoder. You can also cover this with a rubber skin for maximum gripness. The acrylic itself is really slippery.
@@ -179,7 +178,7 @@ I used what was available on the store, but on a next revision I'd go for 9mm wa
 
  <img style='width: 500px' src='http://i.imgur.com/ovAxSRy.jpg'></img>
 
-You can find the CAD file in the github code page. (coming soon)
+You can find the CAD file in the github code page.
 <hr>
 
 ## Software and Wiring
@@ -193,16 +192,16 @@ First let's talk about microswitches.
 Microswitches can have 2 or 3 contacts depending if they're chinese or Omron brand switches.
 The first one usually have 3 contacts: the one from bellow it's the ground (GND) and the lower right one is the input. The third one on the upper right it's always closed, we won't use it. Omron switches come only with the lower and lower right contacts. Check out this diagram:
 
-<img style='width: 800px' src='http://iidx-diy.pancakeapps.com/pics/pic014.jpg'></img>
+![switches](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic014.jpg)
 
 You can daisy-chain all the grounds in a single wire like this diagram:
 >Thanks to LEONARDOjoy tutorial for this image.
 
-<img style='width: 800px' src='http://iidx-diy.pancakeapps.com/pics/pic015.jpg'></img>
+![switches](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic015.jpg)
 
 But what I'm doing is have a single wire that has both the Input pin and the LED pin, with one common ground. The three wires then go to the breadboard.
 
-<img style='width: 500px' src='http://iidx-diy.pancakeapps.com/pics/pic016.png'></img>
+![breadbaord](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic016.png)
 
 That way you'll have one single wire coming from a single button, instead of a single wire connected to every button (which is kind of messy)
 
@@ -211,7 +210,7 @@ Then we have the **encoders**.
 
 The high quality encoders (600ppr) you should wire it like this:
 
-<img style='width: 400px' src='http://iidx-diy.pancakeapps.com/pics/pic020.png'></img>
+![encoders](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic020.png)
 
 These encoders nees a 5v input from the PCB. The Leaonardo PCB has a 5v output (marked as 5v pin) so that's where you should plug that wire.
 
@@ -220,7 +219,7 @@ These encoders nees a 5v input from the PCB. The Leaonardo PCB has a 5v output (
 
 The pins are assigned to every button and encoder. You'll see that the PCB has many pins from A0 to A5, and from 0 to 13, so you'll have 19 pins in total. Remember that buttons use one pin, but encoders will use 2 pins for the cheap ones and 3 pins for the high quality (Pending revision). The PCB also has 3 grounds (GND) to choose from.
 
-<img style='width: 400px' src='http://iidx-diy.pancakeapps.com/pics/pic019.jpg'></img>
+![leonardo](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic019.jpg)
 
 
 **Beatmania IIDX pin layout**
@@ -370,7 +369,7 @@ Any questions, troubleshooting or tips? Try our Discord channel:
 
 or the direct link:
 
-https://discord.gg/fknwz8s
+![>DISCORD SERVER<](https://discord.gg/fknwz8s)
 
 ## Donations
 
@@ -385,38 +384,12 @@ BUT if you feel like giving me a beer for my hard work collecting this informati
 </form>
 
 --------
-## Comments
-
-<div id="disqus_thread"></div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107694000-1"></script>
 <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://consandstuff.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
+  gtag('config', 'UA-107694000-1');
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-12932173-4', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-
-

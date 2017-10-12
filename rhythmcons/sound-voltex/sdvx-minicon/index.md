@@ -8,13 +8,11 @@ title: SDVX MINICON
 >Completed: April 19th 2017
 >2017-08-10 Fixed LED pins on table. Thanks RockyMadia.
 
-<div style='float: center'>
-  <img style='width: 400px' src=http://i.imgur.com/B35qYOW.jpg></img>
-</div>
+![Controller](http://i.imgur.com/B35qYOW.jpg)
+
 Concept art. Banana for scale.
-<div style='float: center'>
-  <img style='width: 400px' src=http://imgur.com/ThOg59V.jpg></img>
-</div>
+
+![Banana](http://imgur.com/ThOg59V.jpg)
 
 ## Other Projects:
 

@@ -1,0 +1,259 @@
+/*****************************************************************************
+  Red Sake
+  Author: Pancake.io
+  Credits:
+    Normalize.css     http://necolas.github.com/normalize.css/
+    Font Awesome      http://fortawesome.github.com/Font-Awesome/)
+    Google Web Fonts  http://www.google.com/webfonts
+
+******************************************************************************/
+
+@import '../../resources/base';
+@import url(http://pancakeio.github.com/pancake-themes/resources/normalize.css);
+@import url(http://pancakeio.github.com/pancake-themes/resources/font-awesome.css);
+@import url(http://fonts.googleapis.com/css?family=Lora);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+
+@link: #cc3038;
+@link_hover: darken(#cc3038, 10%);
+@button: #fff;
+@button_hover: #2e344a;
+@bg_1: #222;
+@co_2: #cc3038;
+@border: #ccc;
+@border2: #aaa;
+
+/*****************************************************************************
+  Elements
+******************************************************************************/
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.2em;
+  margin-bottom: .5em;
+  color: @co_2;
+  line-height: normal;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, sans-serif;
+  font-weight: normal;
+  &:first-child {
+    margin-top: 0.3em;
+  }
+}
+
+h1 { font-size: 2.5em;}
+h2 { font-size: 2em;}
+h3 { font-size: 1.5em;}
+
+a {
+  text-decoration: none;
+  /*border-bottom: 1px dotted @link;*/
+  color: @link;
+  &:hover {
+    color: @link_hover;
+  }
+}
+
+blockquote {
+  padding-left: 15px;
+  margin-left: 0;
+  border-left: 4px solid @button_hover;
+}
+
+
+code {
+  font-family: "Menlo", "Monaco","Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  .corners(3px);
+  border: 1px solid #ccc;
+  background: #f9f9f9;
+  padding: 0px 3px;
+  display: inline-block;
+  color: #595959;
+  line-height: 1.3em;
+  font-size: 85%;
+}
+
+pre {
+  border: 1px solid @border2;
+  background: #fafafa;
+  .corners(3px);
+  padding: 7px;
+  code {
+    border: none;
+    background: transparent;
+    padding: none;
+  }
+}
+
+table {
+  th, td { border: 1px solid @button_hover; padding: 8px 12px; }
+  th { text-align:left; border-bottom: 3px solid @link;}
+  tr:nth-child(2n) { background: #fafafa;}
+}
+
+ul, ol {
+  ul, ol {
+    margin-top: 0.2em;
+    margin-bottom: 0.5em;
+  }
+}
+
+
+input[type=text],
+input[type=email],
+input[type=password],
+textarea {
+  padding: 5px;
+  border: 1px solid #999;
+  font-size: 108%;
+  margin-bottom: 6px;
+  &:focus {
+    outline: none;
+    border-color: #888;
+    .box_shadow(0 0 4px #ccc);
+  }
+}
+
+/*.right { float: right; }*/
+
+.button {
+  text-decoration: none;
+  display: inline-block;
+  color: #555;
+  border: 1px solid #ddd;
+  text-align: center;
+  cursor: pointer;
+  padding: 5px 10px;
+  margin-bottom: 5px;
+  .corners(3px);
+  .gradient(@button,darken(@button, 10%));
+  /*.transition(all, 100ms);*/
+  &:hover {
+    color: white;
+    border-color: darken(@button_hover, 20%);
+    .gradient(lighten(@button_hover, 10%), @button_hover);
+  }
+  &:active {
+    .box_shadow(inset 0 0 10px darken(@button_hover, 30%))
+  }
+}
+
+/*****************************************************************************
+  Layout
+******************************************************************************/
+
+body {
+  font: 108%/1.5 'PT Sans', Helvetica, sans-serif;
+  color: #333;
+  background-image: url(http://s3.amazonaws.com/zephyr_production/resources/sp_ricepaper2.png);
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+header, #container {
+  .box_shadow(0 0 15px rgba(0,0,0,0.1));
+}
+
+header {
+  width: 100%;
+  font-size: 3.3em;
+  font-weight: normal;
+  font-family: 'Lora', Georgia, sans-serif;
+  background: @button_hover;
+  background: rgba(26, 30, 43, 0.9);
+  color: #f5f4f3;
+  position: fixed;
+  top: 0;
+  #header_inner {
+    width: 800px;
+    margin: 0 auto;
+    padding: 30px 25px 25px;
+    text-align: center;
+  }
+    border-bottom: 4px solid @co_2;
+
+  + #container {
+    margin-top: 180px;
+  }
+}
+
+#container {
+  background: white;
+  width: 800px;
+  border: 1px solid @border;
+  min-height: 450px;
+  padding: 15px 25px 20px;
+  margin: 50px auto 20px;
+  .iframe_viewer iframe {
+    padding: 10px;
+    width: 100%;
+    border: none;
+    outline: none;
+    height: 500px;
+  }
+
+  .image_viewer {
+    padding-top: 50px;
+    img {
+      background: white;
+      border: 1px solid #aaa;
+      .box_shadow(0 2px 10px #ccc);
+      display: block;
+      margin: 0 auto;
+    }
+  }
+}
+
+footer {
+  margin: 30px auto 0;
+  text-align: right;
+  font-size: 13px;
+  background: @button_hover;
+  a, a span { .transition(color, 150ms); }
+  a {
+    border-top: 2px solid @co_2;
+    color: #999;
+    padding: 15px 20px;
+    display: block;
+    span { color: #fff }
+    &:hover {
+      color: #ccc;
+    }
+  }
+}
+
+
+
+@media screen and (max-width: 800px) {
+  header #header_inner, #wrapper, #container, footer {
+    width: 100%;
+  }
+
+header {
+  position: static;
+  margin-bottom: 0;
+  font-size: 2.8em;
+  #header_inner {
+    text-align: left;
+  }
+  + #container {
+    margin-top: 0px;
+  }
+}
+
+  /*#wrapper { margin-top: 0; padding-left: 20px; padding-right: 20px; padding-top: 10px;}*/
+  #container {
+    overflow: hidden;
+    border: none;
+    margin: 0;
+    width: 100%;
+  }
+
+  footer {
+    margin-top: 0;
+    a {
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+  }
+}

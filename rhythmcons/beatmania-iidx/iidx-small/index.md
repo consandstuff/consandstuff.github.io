@@ -128,6 +128,21 @@ Read the notes at the end of each item so you know some negative things about ea
 
 **For ARCIN board**
 
+| ITEM                                 	| IMAGE                                                   	| QUANTITY  	| LINKS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|  NOTES                                                                                                    	|
+|--------------------------------------	|---------------------------------------------------------	|-----------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------	|
+| Arcin Board                          	| <img src="http://i.imgur.com/eHsqWNL.png"   width="100"> 	| 1         	| Don't ask please. Google it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	|                                                                                                           	|
+| Encoder (600ppr)                     	| no                                                      	| 1         	| [AliExpress](https://es.aliexpress.com/store/product/1pc-New-Encoder-600-P-R-5V-24V-Incremental-Rotary-AB-2-Phase-6mm-Shaft-Coupling/1305558_32669741048.html)   [Amazon](https://www.amazon.com/Signswise-Incremental-Encoder-Dc5-24v-Voltage/dp/B00UTIFCVA/ref=sr_1_1?ie=UTF8&qid=1502902767&sr=8-1&keywords=encoder)   [Ebay](http://www.ebay.com/itm/360-600P-R-Photoelectric-Incremental-Rotary-Encoder-5-24V-AB-Two-Phases-Shaft-/142133029511?var=&hash=item2117c9ea87:m:miAAqDospQN2_5XmhdmG4HQ)                                                                                                                                                                      	| If you want to use other type of encoder (like a 400ppr one)   you'll need to change part of the   code)  	|
+| Buttons 33x33                        	| no                                                      	| 2+1       	| [AliExpress](https://es.aliexpress.com/item/Free-shipping-Factory-price-33mm-square-game-machine-push-button-arcade-LED-momentary-push-button-illuminated/32731502532.html?spm=2114.13010608.0.0.3phRJQ)                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	| Chinese buttons come with LEDs and Microswitches.                                                         	|
+| Buttons 33x50                        	| no                                                      	| 7         	| [Aliexpress     10pcs.](https://es.aliexpress.com/item/10x-Beatmania-IIDX-Rectangle-LED-Light-Illuminated-Push-Button-Rectangular-buttons-For-Arcade-Coin-Machine-50/32720629306.html?spm=2114.13010608.0.0.3phRJQ)  [SANWA DENSHI     Rakuten](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_100/?s-id=borderless_recommend_item_en)                                                                                                                                                                                                                                                                                                                             	| Chinese buttons come with LEDs and Microswitches.                                                         	|
+| Optional, complete set of buttons.   	| no                                                      	| 1 set     	| [AliExpress - Complete Set     7+2](https://es.aliexpress.com/store/product/9x-Arcade-Beatmania-IIDX-DIY-Kit-Parts-LED-Light-Illuminated-Rectangular-Buttons/821292_32654141915.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	| Chinese buttons come with LEDs and Microswitches.                                                         	|
+| Microswitch                          	| no                                                      	| 9         	| [Omron D2MV-01-1C3 (10     pcs.)Ebay](http://www.ebay.com/itm/262495416199)          [Omron D2MV-01-1C3 Rakuten   Global](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_223/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	| Chinese microswitches are not so good, I recommend buying new   ones from a good brand                    	|
+| 4 pin wire with header               	| no                                                      	| 10        	| [AliExpress     10pcs.](https://es.aliexpress.com/item/10PCS-lot-leng-30cm-Connector-Leads-Header-2-0mm-PH-2P-3P-4P-5P-6P-7P/32786407991.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                	| One of these for each button + 1 for the encoder.                                                         	|
+| Crimp Connectors 187                 	| no                                                      	| 18        	| [AliExpress     50pcs.](https://www.aliexpress.com/item/50-pcs-4-8mm-Faston-Crimp-Terminal-187-Female-Connector-and-Transparent-Sheath-Inserted-Spring-Self/32755341225.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 	| You'll need 2 for each microswitch                                                                        	|
+| Crimp Connectors 250                 	| no                                                      	| 18        	| [AliExpress     25pcs.](https://es.aliexpress.com/item/25-sets-6-3mm-Thickness-0-4mm-Faston-Crimp-Terminal-250-Female-Connector-Transparent-Sheath-insulation/32786820964.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	| You'll need 2 for each LED lamp                                                                           	|
+| Cable ties                           	| no                                                      	| 1 or 2    	| From your local hardware store, or just use tape.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             	| For cable managment                                                                                       	|
+| M5 bolts                             	| no                                                      	| 30        	| [AliExpress     30pcs.](https://es.aliexpress.com/item/30pcs-Lot-Metric-Thread-M5-6-8-10-12-14-16-18-20-25-30-35/32609656316.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	|                                                                                                           	|
+| M5 nuts                              	| no                                                      	| 30        	| [AliExpress     50cps.](https://es.aliexpress.com/item/50pcs-Lot-Free-Shipping-Metric-Thread-M5-304-Stainless-Steel-Hexagon-Nuts-Screw-Nuts-Hex-Nuts/32612699111.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	|                                                                                                           	|
+| M3 Bolts                             	| no                                                      	| 2         	| no link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	|                                                                                                           	|
                                                                                                                                                          	|                                                                                                        	|
 <hr>
 ## Part List / Building Materials
@@ -372,84 +387,21 @@ The pins are assigned to every button and encoder. You'll see that the PCB has m
 
 **Beatmania IIDX pin layout**
 
-<table><thead>
-<tr>
-<th>Button</th>
-<th style="text-align: center">Pin #</th>
-<th style="text-align: center">Button #</th>
-<th style="text-align: center">LED Pin #</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Start</td>
-<td style="text-align: center">11</td>
-<td style="text-align: center">Button 8</td>
-<td style="text-align: center">2</td>
-</tr>
-<tr>
-<td>VFX</td>
-<td style="text-align: center">12</td>
-<td style="text-align: center">Button 9</td>
-<td style="text-align: center">3</td>
-</tr>
-<tr>
-<td>Button 1</td>
-<td style="text-align: center">13</td>
-<td style="text-align: center">Button 1</td>
-<td style="text-align: center">4</td>
-</tr>
-<tr>
-<td>Button 2</td>
-<td style="text-align: center">A0</td>
-<td style="text-align: center">Button 2</td>
-<td style="text-align: center">5</td>
-</tr>
-<tr>
-<td>Button 3</td>
-<td style="text-align: center">A1</td>
-<td style="text-align: center">Button 3</td>
-<td style="text-align: center">6</td>
-</tr>
-<tr>
-<td>Button 4</td>
-<td style="text-align: center">A2</td>
-<td style="text-align: center">Button 4</td>
-<td style="text-align: center">7</td>
-</tr>
-<tr>
-<td>Button 5</td>
-<td style="text-align: center">A3</td>
-<td style="text-align: center">Button 5</td>
-<td style="text-align: center">8</td>
-</tr>
-<tr>
-<td>Button 6</td>
-<td style="text-align: center">A4</td>
-<td style="text-align: center">Button 6</td>
-<td style="text-align: center">9</td>
-</tr>
-<tr>
-<td>Button 7</td>
-<td style="text-align: center">A5</td>
-<td style="text-align: center">Button 7</td>
-<td style="text-align: center">10</td>
-</tr>
-</tbody></table>
+| Button   	| Pin # 	| Button # 	| LED Pin # 	|
+|----------	|-------	|----------	|-----------	|
+| Start    	| 11    	| Button 8 	| 2         	|
+| VFX      	| 12    	| Button 9 	| 3         	|
+| Button 1 	| 13    	| Button 1 	| 4         	|
+| Button 2 	| A0    	| Button 2 	| 5         	|
+| Button 3 	| A1    	| Button 3 	| 6         	|
+| Button 4 	| A2    	| Button 4 	| 7         	|
+| Button 5 	| A3    	| Button 5 	| 8         	|
+| Button 6 	| A4    	| Button 6 	| 9         	|
+| Button 7 	| A5    	| Button 7 	| 10        	|
 
-
-<table><thead>
-<tr>
-<th>ENCODERS</th>
-<th style="text-align: center">DATA 1</th>
-<th style="text-align: center">DATA 2</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Encoder Tuntable
-<td style="text-align: center">0</td>
-<td style="text-align: center">1</td>
-</tr>
-</tbody></table>
+| ENCODERS         	| DATA 1 	| DATA 2 	|
+|------------------	|--------	|--------	|
+| Encoder Tuntable 	| 0      	| 1      	|
 
 That leaves pins 2 to 10 for LEDS (9 LEDS, enough for each button)
 The Leonardo also has 3 ground pins, so use 1 for the encoder, 1 for the buttons and the other one for the LEDS.
@@ -536,7 +488,7 @@ Any questions, troubleshooting or tips? Try our Discord channel:
 
 or the direct link:
 
-[](https://discord.gg/fknwz8s)
+[Discord Server](https://discord.gg/fknwz8s)
 
 ## Donations
 

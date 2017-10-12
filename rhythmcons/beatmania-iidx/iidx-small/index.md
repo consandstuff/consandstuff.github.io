@@ -10,11 +10,11 @@ title: IIDX CON (new)
 
 ![thumbnail](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png)
 
-Old version can be found here: [](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/index.md)
+Old version can be found here: [OLD VERSION](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/index.md)
 <hr>
 
 **How to make a better turntable??**
-Go to: [](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/turntable/index.md)
+Go to: [Tunrtable MOD](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/turntable/index.md)
 
 # Index
 
@@ -78,7 +78,7 @@ All the files are in my github repository, included:
 - Code (easy to upload)
 - CAD files (for the acrylic / plexiglass)
 
-[](https://github.com/lizardbeans/diy-iidx)
+[https://github.com/lizardbeans/diy-iidx](https://github.com/lizardbeans/diy-iidx)
 
 <hr>
 
@@ -108,7 +108,7 @@ Read the notes at the end of each item so you know some negative things about ea
 
 ##For Arduino LEONARDO
 
-| ITEM                               	| IMAGE 	| QUANTITY 	| LINKS                                                                                                                                                                                                                                                                                                                                         	| NOTES                                                                                                  	|
+| ITEM| IMAGE 	| QUANTITY| LINKS                                                                                                                                                                                                                                                                                                                                         	| NOTES                                                                                                  	|
 |------------------------------------	|-------	|----------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------	|
 | Arduino Leonardo                   	| ![Leonardo](http://i.imgur.com/U1CyitI.jpg)     	| 1        	| [DealExtreme](http://www.dx.com/p/diy-leonardo-r3-module-for-arduino-works-with-official-arduino-boards-blue-376823#.WH4Ie_nhAVA)            [Ebay](http://www.ebay.com/itm/Leonardo-R3-development-board-Board-USB-Cable-compatible-for-arduino-/131785751446?hash=item1eaf0afb96:g:gA4AAOSwAoRXFW1g)                                        	| Try local stores. They're usually cheaper and closer.                                                  	|
 | Encoder (600ppr)                   	| ![Encoder](http://i.imgur.com/aQWAdH0.png)    	| 1        	| [AliExpress](https://es.aliexpress.com/store/product/1pc-New-Encoder-600-P-R-5V-24V-Incremental-Rotary-AB-2-Phase-6mm-Shaft-Coupling/1305558_32669741048.html) [Amazon](https://www.amazon.com/Signswise-Incremental-Encoder-Dc5-24v-Voltage/dp/B00UTIFCVA/ref=sr_1_1?ie=UTF8&qid=1502902767&sr=8-1&keywords=encoder) [Ebay](http://www.ebay.com/itm/360-600P-R-Photoelectric-Incremental-Rotary-Encoder-5-24V-AB-Two-Phases-Shaft-/142133029511?var=&hash=item2117c9ea87:m:miAAqDospQN2_5XmhdmG4HQ)                                                                                                                                                                        	| If you want to use other type of encoder (like a 400ppr one)   you'll need to change part of the code) 	|

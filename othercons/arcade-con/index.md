@@ -6,6 +6,7 @@ title: ARCADE CON
 # Small Arcade Controller
 
 >Completed: July 14th 2017
+
 ![arcade front](http://consandstuff.github.io/othercons/arcade-con/arcadecon1.jpg)
 
 ![Arcade inside](http://consandstuff.github.io/othercons/arcade-con/arcadecon2.jpg)
@@ -267,7 +268,9 @@ Send me pictures of your controller on Discord and I'll post them here!
 
 Any questions, troubleshooting or tips? Try my Discord server:
 
-https://discord.gg/fknwz8s
+<iframe src="https://discordapp.com/widget?id=101851954677837824&theme=dark" width="350" height="200" allowtransparency="true" frameborder="0"></iframe>
+
+[>DISCORD SERVER DIRECT LINK<](https://discord.gg/fknwz8s)
 
 ## Donations
 

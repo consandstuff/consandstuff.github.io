@@ -64,7 +64,7 @@ Included in this tutorial you can make this model:
 
 Code and CAD file here
 
-https://github.com/lizardbeans/diy-iidx
+[https://github.com/lizardbeans/diy-iidx](https://github.com/lizardbeans/diy-iidx)
 
 <hr>
 
@@ -331,13 +331,17 @@ If everything went right there should be a new Arduino controller on your pc.
 
 ## Gallery
 
-[Check out these awesome pictures!](http://imgur.com/a/Vh7uL)
+
+![Check out these awesome pictures!](http://imgur.com/a/Vh7uL)
+
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Vh7uL"><a href="//imgur.com/Vh7uL">DIY Beatmania IIDX Controller</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 **OTHER CONTROLLERS made by you guys and gals**
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/nJUs6"><a href="//imgur.com/nJUs6">Other controllers made by YOU</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
+
 
 ## Troubleshooting
 

@@ -209,7 +209,7 @@ Start by cutting the box and making the holes for the buttons.
 
 The box is really simple, but you can make it bigger if you like, meanwhile here's what I did:
 
-![boxy](http://consandstuff.pancakeapps.com/other/Arcade%20con/arcadecon.png)
+![boxy](http://consandstuff.github.io/othercons/arcade-con/arcadecon.png)
 
 I made the entire controller from a 40x40cm piece of 9mm MDF wood. The buttons and arcade stick don't need much room inside so a 5cm height controller will do just fine. (You can even make it 4cm)
 
@@ -249,9 +249,7 @@ After that you can put the 4 magnetic locks to attach the door or simply use 4 s
 
 **Wiring and stuff**
 
-<div style='float: center'>
-  <img style='width: 400px' src=http://consandstuff.pancakeapps.com/other/Arcade%20con/arcadecon2.jpg></img>
-</div>
+![wiring](http://consandstuff.github.io/othercons/arcade-con/arcadecon2.jpg)
 
 I started by putting each button in its place and the controller stick too from the inside of the controller. Using 4 nuts I attached the controller metal plate to the controller and that's it.
 

@@ -1,6 +1,5 @@
 ---
 title: IIDX CON (new)
-header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="http://i.imgur.com/f0vDPlL.png" alt="CONS&STUFF" /></a>
 ---
 
 # Beatmania IIDX PC Controller
@@ -9,15 +8,13 @@ header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="
 - Added a turntable for this ghetto controller.
 
 
-<div style='float: center'>
-  <img style='width: 400px' src='http://iidx-diy.pancakeapps.com/pics/pic003.png'></img>
-</div>
+![thumbnail](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png)
 
-Old version can be found here: http://consandstuff.pancakeapps.com/iidx/iidx-old
+Old version can be found here: [](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/index.md)
 <hr>
 
 **How to make a better turntable??**
-Go to: http://iidx-diy.pancakeapps.com/turntable/
+Go to: [](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/turntable/index.md)
 
 # Index
 
@@ -32,10 +29,10 @@ Go to: http://iidx-diy.pancakeapps.com/turntable/
 
 # Other Projects:
 
-1. [Sound Voltex PC Controller](http://SDVX-DIY.pancakeapps.com/)
-2. [IIDX - SDVX Hybrid Controller (incomplete)](http://iidxsdvx.pancakeapps.com/)
-3. [SDVX Minicon for $90](http://SDVX-DIY.pancakeapps.com/minicon)
-4. [Small Arcade controller easy to make](http://consandstuff.pancakeapps.com/other/arcade%20con)
+1. [Sound Voltex PC Controller](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/index.md)
+2. [IIDX - SDVX Hybrid Controller (incomplete)](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid/index.md)
+3. [Sound Voltex Minicon](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon/index.md)
+4. [Small Arcade Controller](http://consandstuff.github.io/othercons/arcade-con/index.md)
 
 <hr>
 
@@ -64,13 +61,13 @@ Included in this tutorial are two versions on how to aproach this:
 - Arcin board controller
 	- Difficulty: easy-medium
 	- Costs: expensive alternative
-	- Pros: easy to use and setup, no code required, clean work
+	- Pros: easy to use and setup, no code required the included firmware has everything, clean work
 	- Cons: not modable, expensive
 
 For both versions the box is exactly the same, the only thing that'll change is the wiring stuff at the end.
-The code included in my github repository is for the Leonardo board only.
+The code included in my github repository is for the **Leonardo board only.**
 
-![controller](http://iidx-diy.pancakeapps.com/pics/pic003.png)
+![controller](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic003.png)
 
 
 <hr> 
@@ -79,9 +76,9 @@ The code included in my github repository is for the Leonardo board only.
 
 All the files are in my github repository, included:
 - Code (easy to upload)
-- CAD files (for the acrylic /plexiglass)
+- CAD files (for the acrylic / plexiglass)
 
-https://github.com/lizardbeans/diy-iidx
+[](https://github.com/lizardbeans/diy-iidx)
 
 <hr>
 
@@ -92,7 +89,7 @@ I'll try to include links to many alternatives as I can (China, US mostly) so yo
 
 Read the notes at the end of each item so you know some negative things about each store or webpage.
 
-###**Tools**
+##**Tools**
 
 - Soldering Pen / Soldering Station 
 - 60/40 risin core solder
@@ -109,7 +106,7 @@ Read the notes at the end of each item so you know some negative things about ea
 	- 1" Spade bit
 	- 5mm wood bit
 
-###For Arduino LEONARDO
+##For Arduino LEONARDO
 
 | ITEM                               	| IMAGE 	| QUANTITY 	| LINKS                                                                                                                                                                                                                                                                                                                                         	| NOTES                                                                                                  	|
 |------------------------------------	|-------	|----------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------	|
@@ -149,7 +146,7 @@ Read the notes at the end of each item so you know some negative things about ea
 <hr>
 ## Part List / Building Materials
 
-Building the box for your controller is not an easy task, but I'll try to make it as simple as possible. The basic box is just a rectangle with holes for each button, but for this guide I'll be taking the next step and I'll be using 5mm clear acrylic on top of the controller to make it look as close to a DJDAO FPS as possible.
+Building the box for your controller is not an easy task, but I'll try to make it as simple as possible. The basic box is just a rectangle with holes for each button, but for this guide I'll be taking the next step and I'll be using clear acrylic on top of the controller to make it look as close to a DJDAO FPS as possible.
 
 If you find that using acrylic / plexiglass is too expensive, you can use the same measures to make it out of wood.
 
@@ -159,16 +156,16 @@ Take a look at the gallery at the bottom to see other controller's made by other
 
 **Main body**
 
-The main body of the controller will be made out of MDF wood. MDF is a kind of wood plank that is easy to cut and glue, and it's also light in comparison to hard wood, and also cheaper.
+The main body of the controller will be made out of MDF wood. MDF is a type of wood plank that is easy to cut and glue, and it's also light in comparison to hard wood, and also cheaper.
 
-Most hardware stores sell planks of MDF that are 120cm by 240cm. You'll find that it's too big for a single controller, so if the store has smaller MDF planks buy that instead.
+Most hardware stores sell planks of MDF that are 120cm by 240cm. You'll find that it's too big for a single controller, so if the store has smaller MDF planks buy that instead. (for one controller box you'll need like a 60 by 60cm piece)
 
-> There's also some hardware stores that sell pieces of defective MDF that are as good as new. Those are cheaper and they'll work too. Just keep in mind that the parts of the box fit inside the pieces you're buying.
+> There's also some hardware stores that sell pieces of defective MDF that are as good as new. Those are cheaper and they'll work too. Just keep in mind that the pieces have to be big enough for a controller
 
-> **Also** Some hardware stores also have a cutting service, where you can buy the whole MDF plank and ask them to cut it for you. You can cut the main rectangles and do the fine cuts yourself at home.
+> **NOTE** Some hardware stores also have a cutting service, where you can buy the whole MDF plank and ask them to cut it for you. You can cut the main rectangles and do the fine cuts yourself at home.
 
 ![60by60](http://i.imgur.com/ffSXoL9.png)
->This is just an example of the box parts. For the complete set and details go to the github repository.
+>This is just an example of the box parts. For the complete set and details go to the **github** repository.
 
 Cutting the MDF is not that big of a problem. With a jigsaw, a table saw or even a hacksaw you can cut the main rectangles with straight lines. You'll end up with 5 rectangles, 4 of those are ready to go (the walls) but you'll need to do extra work on the top piece.
 
@@ -181,7 +178,7 @@ For the top plate there's two alternatives:
 
 **Acrylic stuff**
 
-For these project we're using two sets of acrylic (a.k.a. plexiglass in the US). The first set is the top mounted pieces where the buttons and turntable will be mounted. The other set is pieces of color acrylic to cover the box and it's sides and the bottom.
+For this project we're using two sets of acrylic (a.k.a. plexiglass in the US). The first set is the top mounted pieces where the buttons and turntable will be mounted. The other set is pieces of color acrylic to cover the box, its sides and the bottom.
 
 For this part I extremely recommend getting the job done by a local acrylic store and not by hand. Acrylic is hard stuff and it's quite toxic to breathe its dust so you're better paying for this. 
 
@@ -189,15 +186,15 @@ For this job I have a CAD file that includes all the stuff you need in a 60 by 6
 
 >Some universities or colleges have laser cutting machinery for their classes, you could buy the whole acrylic plank and ask to borrow some time with the machine.
 
-So, to ask the local store how much the work will be, **take the CAD file and send it to the store as it is**, they'll know what to do with it and will tell you how much it is.
+So, to ask the local store how much the work will be, **take the CAD file and send it to the store as it is**, they'll know what to do with it and they'll tell you how much it is. If they need another type of file then it's up to you (or you can ask in the discord server)
 
 **The different parts**
 
 For this we'll have 2 different thickness.
 
-The turntable disc, the turntable support place and the keyboard support plate are all 5mm thick and clear acrylic (so you can put your original artwork below).
+The turntable disc, the turntable support base and the keyboard support base are all 5mm thick and made out of clear acrylic (so you can put your original artwork below).
 
-And the top and side plates that cover the box are all 3mm thick black acrylic (you can also try other colors, is up to you. White might look good too!)
+And the top and side plates that cover the box are all 3mm thick black acrylic (you can also try other colors, is up to you. White might look good too! Check out the Gallery at the bottom of the page.)
 
 This is all the stuff you'll need.
 
@@ -212,19 +209,19 @@ This is all the stuff you'll need.
 | Bottom door    	| 3 mm      	| black          	| 1        	|
 
   **Turntable disc**
-![enter image description here](http://iidx-diy.pancakeapps.com/pics/pic013.png)
+![enter image description here](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic013.png)
 
 **Turntable round base**
-  ![Turntable round](http://iidx-diy.pancakeapps.com/pics/pic012.png)
+  ![Turntable round](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic012.png)
     
 **Turntable square base**
-![Turntable square](http://iidx-diy.pancakeapps.com/pics/pic011.png)
+![Turntable square](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic011.png)
 
  **Keyboard base**
-![Keyboard base](http://iidx-diy.pancakeapps.com/pics/pic010.png)
+![Keyboard base](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic010.png)
 
   **Top cover plate (the side cover are just rectangles, same with the bottom door)**
-![Top cover plate](http://iidx-diy.pancakeapps.com/pics/pic009.png)
+![Top cover plate](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic009.png)
 
 The acrylic parts are not glued together, they're just kept in place with the nuts and bolts. **No glue!**
 
@@ -242,13 +239,15 @@ I also used different bolts.
 
 The first alternative is going to be our main route from now on, so this box will use the acrylic on the top and the sides.
 
+**For the wood box**
+After you cut all 5 wood rectangles that'll be your controller box, take the top piece apart and put the top acrylic part on it.
 Start by drawing all the holes that you're gonna cut. For this you can use a ruler and a pencil and mark each line on top of the wood. Don't worry about messing up the surface with your pencil because you're gonna be cleaning that later with some sandpaper.
 
 If you have a good printer you can print the sketch of the top part on a 1:1 scale, and then glue it on top of the MDF and just cut along the lines.
 
 > If you have the top acrylic you can use it as a guide. Put it on top of the MDF box and trace with a pencil the holes you need to make or drill.
 
-For this part you're gonna need a **1" spade bit** and a **drill**.
+For these holes you're gonna need a **1" spade bit** and a **drill**.
 With the drill and the spade bit make a hole on each corner of the bigger hole so the side of the hole you make align with the lines. Next, use the same spade bit and make 4 holes in a cross figure on the turntable part of the top plate (the left circle). That'll make it easier to cut these parts with a copingsaw, jigsaw or hacksaw.
 
 After the 1" holes are done pick your saw of preference and start cutting the straight lines of the bigger hole. A jigsaw is the best tool for this part, but a copingsaw or hacksaw is just as good. Use the holes you just made to put the saw through the wood as a starting point.
@@ -259,19 +258,19 @@ For the Turntable circle a jigsaw is the best tool you can use. If you don't hav
 
 Finally take the drill and the 5mm bit and make the 10 holes for each of the bolts we'll use to hold the acrylic in place.
 
-After you're done, grab the **100 grit sandpaper** and give it a good sanding on each one of the holes and the surface too to get a smooth feeling. Don't put too much work on it though, because we'll be giving it a final sand when it's all glued toghether.
+After you're done, grab the **100 grit sandpaper** and give it a good sanding on each one of the holes and the surface too to get a smooth surface. Don't put too much work on it though, because we'll be giving it a final sand when it's all glued together.
 
 **Glueing part**
 
-Glueing everything is not the hardest part of the making the box, but it also depends on the quality of the cuts on the MDF.
-If you used a tablesaw or if you used the cutting service of a hardware store then you're good to go.
+Glueing everything is not the hardest part of the making of the box, but it also depends on the quality of the cuts on the MDF.
+If you used a tablesaw or if you used the cutting service of a hardware store then you're good to go, the cuts will be 90° and straight.
 But if you made the cuts yourself then you might have irregular cuts that will make the glueing part tedious.
 
->Straighter cuts are easier to glue, if you have irregular cuts the glue might not keep the pieces together or it might be needed to hold the pieces together for a good 10 minutes until the glue dries out.
+>Straighter cuts are easier to glue, if you have irregular cuts the glue might not keep the pieces together or you might need to hold the pieces together for a good 10 minutes until the glue dries out. You can use a hairdrier to speed things up drying the glue.
 
 Take the top part and put it upside down on a table.
 
-Grab the first longer side wall part and put some glue in the side that will have contact with the top part. Use your finger to spread the glue evenly on the contact surface of the wall and spread some glue on the top part too. Put the two pieces toghether and hold it there for a few minutes, you can also use clamps to keep the two parts from separating. Wait a good 10 to 15 minutes for the glue to dry (you'll need to wait a little longer if it's cold outside). 
+Grab the first longer side wall part and put some glue in the side that will have contact with the top part. Use your finger to spread the glue evenly on the contact surface of the wall and spread some glue on the top part too. Put the two pieces toghether and hold it there for a few minutes, you can also use clamps to keep the two parts from separating. Wait a good 10 to 15 minutes for the glue to dry (you'll need to wait a little longer if it's cold outside. If it is use a hairdrier). 
 
 >A good tip to speed things up is using profesional carpenter's glue. It's a little more expensive but it dries faster than water-based glue. 
 >Also you can use a hair drier to speed thing up a little bit.
@@ -283,15 +282,15 @@ With all 4 walls glued to the top plate, you can also use small nails to keep th
 ![finished box](http://i.imgur.com/AuGALrD.jpg)
 >old picture, MDF thickness may vary.
 
-Finish the box with some 100 grit sandpaper and then  180 grit sandpaper. Sand each side but try not to sand the corners too much so they don't get rounded. Keep sanding until you're happy with the product.
+Finish the box with some 100 grit sandpaper and then 180 grit sandpaper. Sand each side but try not to sand the corners too much so they don't get rounded. Keep sanding until you're happy with the final product.
 After sanding, take a wet piece of cloth and give the box a good clean to get rid of every wood particle or glue.
 
 Now onto the **painting** part.
 
 Put some newspaper on the floor or a table and put your box in the middle on top of some small scrap pieces of MDF (to keep the box in the air) so the box doesn't get stuck to the newspaper.
-Follow the instructions in the spray can and paint the front and inside of the box. A good Rustoleum spray can will last for about 3 boxes of this size, so be sure not to over paint, it won't get that much whiter.
+Follow the instructions in the spray can and paint the front and inside of the box. A good Rustoleum spray-can will last for about 3 boxes of this size, so be sure not to over paint, it won't get that much whiter.
 
->What I did was I kept the spary can about 30cm of distance from the box and painted it from left to right and then back left. It left some un-painted parts but it's ok. I waited for about a minute and gave it another pass the same way to cover the parts where the wood was still visible. I stoped on the second pass to let it dry.
+>What I did was I kept the spray can about 30cm of distance from the box and painted it from left to right and then back left. It will have some un-painted parts but it's ok. I waited for about 3 minutes and gave it another pass the same way to cover the parts where the wood was still visible. I stoped on the second pass to let it dry.
 
 You're done with the box now!.
 
@@ -303,7 +302,7 @@ The side panels are a bit trickier.
 
 Remember how we didn't made any holes on the side wood of the box? Well that's because we want everything to fit perfectly, including the side acrylic panels that cover the box.
 
-So for this grab a side panel an put it on the place it will go. Using a pencil mark all the holes that you'll need to make to the box. With a drill do all the holes needed and then put the acrylic and hold it with the M5 bolts to the box.
+So for this grab a side panel an put it on the place it will go. Using a pencil mark all the holes that you'll need to make to the box. With a drill do all the holes needed and then put the acrylic and hold it in with the M5 bolts to the box.
 
 With the first side panel mounted repeat the process with the rest of the panels until you're done. Now you should have the side panels slighlty longer than the bottom of the box, that's where the bottom door goes, right inside the 4 side panels. 
 
@@ -313,9 +312,9 @@ That should be it.
 
 Now just put the artwork between the clear acrylic and the top cover and install all the buttons and the encoder on the acrylic bases. Use the M5 bolts to hold everything in place.
 
-![enter image description here](http://imgur.com/N30poSj.jpg)
+![isometric](http://imgur.com/N30poSj.jpg)
 
-You can download this image [here](http://iidx-diy.pancakeapps.com/pics/IIDX%20con.pdf)
+You can download this image [here](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/IIDX%20con.pdf)
 
 <hr>
 
@@ -332,18 +331,18 @@ First let's talk about **microswitches**.
 Microswitches can have 2 or 3 contacts depending if they're chinese or Omron brand switches.
 The first one usually have 3 contacts: the one from bellow it's the ground (GND) and the lower right one is the input (NORMALLY OPEN). The third one on the upper right it's always closed (NORMALLY CLOSED), we won't use the NC pin.  Check out this diagram:
 
-![Cool switches](http://iidx-diy.pancakeapps.com/pics/pic014.jpg)
+![Cool switches](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic014.jpg)
 
 For the LEONARDO we usually daisy-chain all the GROUND/COMMON wires to a single one. This is completly normal and will make the job a lot easier.
 >Thanks to LEONARDOjoy tutorial for this image.
 
-![daisy-chain'd](http://iidx-diy.pancakeapps.com/pics/pic015.jpg)
+![daisy-chain'd](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic015.jpg)
 
 Then we have the **encoder**.
 
 The high quality encoders (600ppr) have 4 wires coming out: Data A and B (to send the scratching information), 5V input (to give the encoder the power to work) and GND (which is the ground / common), like shown here:
 
-![encoders stuff](http://iidx-diy.pancakeapps.com/pics/pic020.png)
+![encoders stuff](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic020.png)
 
 The 2 data wires go to the pins in the PIN LAYOUT, and the 5V wire goes to the 5V pin on the Leonardo PCB.
 
@@ -373,17 +372,17 @@ Repeat this process until all the 250 crimp connectors are attached. The other e
 Now do the same thing with the 187 crimp connectors for each of the buttons and that'll leave you with two ground wires.
 
 For the **encoder** strip some of the black wire protector back so the lenght of each encoder wire is long enough to reach all 4 pins you'll need in the Leonardo.
-The encoder is fixed to the acrylic using the 3 M3 bolts (6mm long).
+The encoder is fixed to the acrylic using the 3 pcs. M3 bolts (6mm long).
 
 Now you'll have 18 single wires (9 LEDS and 9 buttons) and 2 ground wires, and also 4 encoder wires.
 
-Now you need to use a soldering iron and some solder to tin the tip of each wire so the threads of the wires are together in a single solid wire. Try to make it as thin as posible so it fits inside the jumper holes of the PCB. The tinned wires should now be able to go inside the jumper holes for each pin. following the next PIN LAYOUT.
+Now you need to use a soldering iron and some solder to tin the tip of each wire so the threads of the wires are together in a single solid wire. Try to make it as thin as posible so it fits inside the jumper holes of the Leonardo PCB. The tinned wires should now be able to go inside the jumper holes for each pin. following the next PIN LAYOUT.
 
 **PIN LAYOUT**
 
-The pins are assigned to every button and encoder. You'll see that the PCB has many pins from A0 to A5, and from 0 to 13, so you'll have 19 pins in total. Remember that buttons use one pin, but encoders will use 2 pins plus the 5V pin. The PCB also has 3 grounds (GND) to choose from.
+The pins are assigned to every button and encoder. You'll see that the PCB has many pins from A0 to A5, and from 0 to 13, so you'll have 19 pins in total. Remember that buttons use one pin, but encoders will use 2 pins plus the 5V pin. The PCB also has 3 grounds (GND) to choose from, you'd want to use 1 ground pin for the LEDS, 1 pin for the Buttons and 1 pin for the ENCODERS, just to be safe.
 
-![Arduino Leonardo](http://iidx-diy.pancakeapps.com/pics/pic019.jpg)
+![Arduino Leonardo](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic019.jpg)
 
 **Beatmania IIDX pin layout**
 
@@ -475,25 +474,27 @@ With this done you now only need to load the code into the Arduino and it's done
 
 ##Wiring the ARCIN board
 
-An Arcin boards is a type of custom PCB that has all the inputs necesary for most known rhythm game controllers.
-The board comes with 11 headers for buttons, 2 headers for encoders and also 2 extra 2pin headers to attach LEDS to the Turntable. It has everything for a IIDX, SDVX or even a PopnMusic controller.
+An Arcin board is a type of custom PCB that has all the inputs necesary for most known rhythm game controllers.
+The board comes with 11 headers for buttons, 2 headers for encoders and also 2 extra 2-pin headers to attach LEDS to the Turntable. It has everything for a IIDX, SDVX or even a PopnMusic controller.
 
->If you know about arcin boards, then you'll know where to buy them. Right now it's kind of a private thing so please don't ask for links because they're not sold in any known stores, they're custom made by another user.
+>If you know about arcin boards, then you'll know where to buy them. Right now it's kind of a private thing so please don't ask for links because they're not sold in any known stores or webpage, they're custom made by another user on a private forum.
 
 ![arcinpcb](http://i.imgur.com/eHsqWNL.png)
 
 So since the PCB comes preloaded with the right firmware and has all the slots for a controller we just need to wire each of the buttons.
 
-For this part of the project we'll need all 10 pcs. 4 pin wires. Srtat by testing each of the Arcin pins with a small jumper wire just so you know which pins are for the LEDS and which ones are for the buttons, since we will crimp the 250 crimps on LEDs and the 187 crimps on the Buttons.
+For this part of the project we'll need all 10 pcs. 4 pin wires. Start by testing each of the Arcin pins with a small jumper wire just so you know which pins are for the LEDS and which ones are for the buttons, since we will crimp the 250 crimps on LEDs and the 187 crimps on the Buttons.
 
-Once they're all tested take each 4 pin wire and crimp a connector en each end of the wire. If you think the wires is too long you can cut it and tin the tip so it's easier to crimp. You'll end up with 9 wires like the one shown below.
+Once they're all tested take each 4 pin wire and crimp a connector en each end of the wire. If you think the wire is too long you can cut it and tin the tip so it's easier to crimp. You'll end up with 9 wires like the one shown below.
 
 ![crimped wire arcin](http://i.imgur.com/hEbBqOl.jpg?1)
 
 Then it's just as easy as connect each cable to each button and then connect the header into the Arcin board and you're done! Much easier than the Leonardo, right? Yes, but it's also more expensive.
 
 For the encoder you'll need to connect the 4 pin wire to the four wires coming from the encoder. 
-The encoder is fixed to the acrylic using the 3 M3 bolts (6mm long).
+The encoder is fixed to the acrylic using the 3 pcs. M3 bolts (6mm long).
+
+The encoder pins are the tricky part since it depends on the version of your arcin board. It should be (from left to right) 5v, GND, Data A and Data B. (Sometimes it's reversed)
 
 Again, test each pin on the arcin board before doing anything. When you're done just connect the encoder to the Arcin.
 
@@ -505,8 +506,8 @@ Now check your connections, close up the controller, connect the USB cable and l
 
 This is a special skin for this IIDX controller to put between the keypad acrilic and the top black cover.
 
-![skin IIDX](http://consandstuff.pancakeapps.com/skins/iidx.png)
->Right click, Save Image as.... Then print it in a **Letter** or **A4** sized paper. If the printer has an option to *stretch to fit* disable it. It looks better on a Laser printer.
+![skin IIDX](http://consandstuff.github.io/skins/iidx.png)
+>Right click, Save Image as.... Then print it in a **Letter** or **A4** sized paper on a 100% scale. If the printer has an option to *stretch to fit* disable it. It looks better on a Laser printer.
 
 
 ## Gallery
@@ -528,19 +529,19 @@ This is a special skin for this IIDX controller to put between the keypad acrili
 * Inside the code folders there is a .ino file (leovxhq.ino). Double click it and it'll open Arduino IDE. Connect your Arduino to your PC and in the Tools dropdown menu select Arduino Leonardo in the arduino menu. Then click UPLOAD (arrow pointing to the right), and you're done.
 
 **Multiple errors with scary red font when I try to UPLOAD the code**
-* Inside Arduino IDE click *Tools*, then *Board:* and choose *Arduino Leonardo*. Also be sure that in the same Tools menu the COM port says Arduino (Leonardo).
+* Inside Arduino IDE click *Tools*, then *Board:* and choose *Arduino Leonardo*. Also be sure that in the same Tools menu the COM port says Arduino (Leonardo). IF it doesn't work try another USB cable or another USB port.
 
 **Still multiple errors, please?**
-* It depends on the situation and the error, I can't help you with that.
+* It depends on the situation and the error, I can't help you with that. Try asking in the Discord server.
 
 **LED's are not turning on**
-* Be sure the LED is in the right position. Try taking it out and inserting it again rotating it 180°.
+* Be sure the LED is in the right position. Try taking it out and inserting it again rotating it 180°. LEDS have (+) and (-) polarity soo it won't light up if it's reversed.
 
 **Button/Turntable is not working**
-* Each button needs to be connected to it's pin and to the ground (GND). If it's not connected to any GND pin it won't work. 
+* Each button needs to be connected to it's pin and to the ground (GND). If it's not connected to any GND pin it won't work. Also check you have the right encoder pins, and you have the 5v pin connected too.
 
 **Turntable is wonky and it'll skip frequently**
-* Adjunt the sensibility of your encoder inside the code, the instructions are inside the file.
+* Adjunt the sensibility of your encoder inside the code, the instructions are inside the .ino file.
 
 
 Any questions, troubleshooting or tips? Try our Discord channel:
@@ -549,7 +550,7 @@ Any questions, troubleshooting or tips? Try our Discord channel:
 
 or the direct link:
 
-https://discord.gg/fknwz8s
+[](https://discord.gg/fknwz8s)
 
 ## Donations
 
@@ -564,15 +565,14 @@ BUT if you feel like giving me a beer for my hard work collecting this informati
 </form>
 
 -----------
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107694000-1"></script>
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  ga('create', 'UA-12932173-4', 'auto');
-  ga('send', 'pageview');
-
+  gtag('config', 'UA-107694000-1');
 </script>
 
 

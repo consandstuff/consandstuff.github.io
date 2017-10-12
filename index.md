@@ -72,7 +72,7 @@ The controller is pretty much the same as the Beatmania controller, but the keyp
 
 This is a simple controller made with only available stuff from the internet, no custom circuit boards or extra soldering. This is as easy as it gets.
 
-[Click here for instructions](http://consandstuff.pancakeapps.com/other/Arcade%20con)
+[Click here for instructions](http://consandstuff.github.io/othercons/arcade-con)
 
 ----------
 

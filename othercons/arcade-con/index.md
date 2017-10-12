@@ -1,20 +1,14 @@
 ---
 title: ARCADE CON
-header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="http://i.imgur.com/f0vDPlL.png" alt="CONS&STUFF" /></a>
 ---
 
 
 # Small Arcade Controller
 
 >Completed: July 14th 2017
+![arcade front](http://consandstuff.github.io/othercons/arcade-con/arcadecon1.jpg)
 
-<div style='float: center'>
-  <img style='width: 400px' src=http://consandstuff.pancakeapps.com/other/Arcade%20con/arcadecon1.jpg></img>
-</div>
-
-<div style='float: center'>
-  <img style='width: 400px' src=http://consandstuff.pancakeapps.com/other/Arcade%20con/arcadecon2.jpg></img>
-</div>
+![Arcade inside](http://consandstuff.github.io/othercons/arcade-con/arcadecon2.jpg)
 
 ## Other Projects:
 
@@ -165,7 +159,7 @@ Includes the cheap stick, cheap buttons, USB encoder and wires. (For real!)
 
 If you need other options check this part of this guide: http://www.slagcoin.com/joystick/pcb_wiring.html#CUSTOM_PCBS
 
-#### Arcade Stick
+### Arcade Stick
 
 * [SANWA JLF Ball Top - Rakuten (expensive, direct from Japan)](https://global.rakuten.com/en/store/sanwadenshi/item/lever_045/)
 
@@ -173,7 +167,7 @@ If you need other options check this part of this guide: http://www.slagcoin.com
 
 * [SANWA JLF Ball Top - Focus Attack](https://www.focusattack.com/sanwa-jlf-tprg-8byt-sk-higher-tension-silent-microswitch-joystick/)
 
-#### Buttons
+### Buttons
 
 * [SANWA OBSF 24mm - Focus Attack](https://www.focusattack.com/sanwa-obsf-24mm-pushbutton-dark-blue/) 
 
@@ -249,9 +243,7 @@ After that you can put the 4 magnetic locks to attach the door or simply use 4 s
 
 **Wiring and stuff**
 
-<div style='float: center'>
-  <img style='width: 400px' src=http://consandstuff.pancakeapps.com/other/Arcade%20con/arcadecon2.jpg></img>
-</div>
+![wiring](http://consandstuff.girhub.io/othercons/arcade-con/arcadecon2.jpg)
 
 I started by putting each button in its place and the controller stick too from the inside of the controller. Using 4 nuts I attached the controller metal plate to the controller and that's it.
 

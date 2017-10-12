@@ -8,13 +8,9 @@
 
 >Completed: July 14th 2017
 
-<div style='float: center'>
-  <img style='width: 400px' src=http://consandstuff.github.io/othercons/arcade-con/arcadecon1.jpg></img>
-</div>
+![Controller front](http://consandstuff.github.io/othercons/arcade-con/arcadecon1.jpg)
 
-<div style='float: center'>
-  <img style='width: 400px' src=http://consandstuff.github.io/othercons/arcade-con/arcadecon2.jpg></img>
-</div>
+![Controller Again](http://consandstuff.github.io/othercons/arcade-con/arcadecon2.jpg)
 
 ## Other Projects:
 
@@ -145,7 +141,7 @@ Option 2:
 - 10pcs. SANWA 30mm buttons (or 8pcs. + 2pcs. 25mm buttons)
 - 1pc. Chinese USB encoders with wires included.
 
-###Links to everything (except tools and skills)
+##Links to everything (except tools and skills)
 
 **Super chinese complete arcade set SUPER CHEAP edition**
 
@@ -165,7 +161,7 @@ Includes the cheap stick, cheap buttons, USB encoder and wires. (For real!)
 
 If you need other options check this part of this guide: http://www.slagcoin.com/joystick/pcb_wiring.html#CUSTOM_PCBS
 
-#### Arcade Stick
+### Arcade Stick
 
 * [SANWA JLF Ball Top - Rakuten (expensive, direct from Japan)](https://global.rakuten.com/en/store/sanwadenshi/item/lever_045/)
 
@@ -173,7 +169,7 @@ If you need other options check this part of this guide: http://www.slagcoin.com
 
 * [SANWA JLF Ball Top - Focus Attack](https://www.focusattack.com/sanwa-jlf-tprg-8byt-sk-higher-tension-silent-microswitch-joystick/)
 
-#### Buttons
+### Buttons
 
 * [SANWA OBSF 24mm - Focus Attack](https://www.focusattack.com/sanwa-obsf-24mm-pushbutton-dark-blue/) 
 

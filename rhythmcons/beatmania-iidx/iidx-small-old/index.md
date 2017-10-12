@@ -311,7 +311,7 @@ Any questions, troubleshooting or tips? Try our Discord channel:
 
 or the direct link:
 
-![>DISCORD SERVER<](https://discord.gg/fknwz8s)
+[>DISCORD SERVER<](https://discord.gg/fknwz8s)
 
 ## Donations
 

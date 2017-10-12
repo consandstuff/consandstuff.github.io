@@ -11,6 +11,8 @@
 I'll try to explain most of these things so you can build your own controller from scratch. 
 Feel free to comment on any project on my discord server [https://discord.gg/fknwz8s](https://discord.gg/fknwz8s)
 
+<iframe src="https://discordapp.com/widget?id=101851954677837824&theme=dark" width="350" height="200" allowtransparency="true" frameborder="0"></iframe>
+
 ----------
 
 

@@ -1,6 +1,5 @@
 ---
 title: HYBRID IIDX
-header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="http://i.imgur.com/f0vDPlL.png" alt="CONS&STUFF" /></a>
 ---
 
 # Hybrid IIDX-SDVX Controller (DIY)
@@ -13,15 +12,13 @@ Instead I did a copy of this and made a DIY IIDX Controller only (No Hybrid).
 You can check it out here:
 
 
-<div style='float: center'>
-  <img style='width: 400px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic001.png'></img>
-</div>
+![Image](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic001.png)
 
 # Other Projects:
 
-1. [Sound Voltex PC Controller, using a Teensy 3.2 PCB](http://SDVX-DIY.pancakeapps.com/)
-2. [IIDX Beatmania PC Controller, using a Leonardo Arduino](http://IIDX-DIY.pancakeapps.com/)
-3. [Sound Voltex Minicon for $90](http://SDVX-DIY.pancakeapps.com/minicon)
+1. [Sound Voltex PC Controller, using a Teensy 3.2 PCB](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal)
+2. [IIDX Beatmania PC Controller, using a Leonardo Arduino](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/)
+3. [Sound Voltex Minicon for $90](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon)
 
 This how-to is based on two other instructions on how to make a DIY controller using an Arduino PCB. Many thanks to:
 
@@ -73,13 +70,13 @@ Included in this tutorial you can choose from 2 variations:
 - Beatmania IIDX Controller (9 buttons + Turntable + 9 LEDs)
 
 
-  <img style='width: 300px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic003.png'></img>
+  <img style='width: 300px' src='http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png'></img>
 
 
 - Beatmania IIDX+SDVX Controller (9 buttons + Turntable + 2 Knobs + 5 LEDs) 
 
 
-  <img style='width: 300px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic002.png'></img>
+  <img style='width: 300px' src='http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic002.png'></img>
 
 
 You can either build just one of them or build both.

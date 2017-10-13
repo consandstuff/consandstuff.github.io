@@ -20,21 +20,19 @@ Many thanks to:
 - [LEONARDOjoy](https://sdvxdiy.github.io/) 
 For the style and useful info.
 
-- User WAFU from the Ainsun Discord for building the code for the Teensy.
+- User WAFU from the Ainsun Discord for building the firmware for the Teensy.
 
 - User BonDiggity from the Cons&Stuff Discord for helping me out with some files missing in the code and also for some nice circuit board ideas.
 
 
 ## Other Projects:
 
-1. [Beatmania IIDX Controller, with CAD files to make the box look amazing](http://IIDX-DIY.pancakeapps.com/)
-2. [IIDX - SDVX Hybrid Controller (incomplete)](http://iidxsdvx.pancakeapps.com/)
-3. [Soundvoltex Minicon for $90](http://sdvx-diy.pancakeapps.com/minicon)
+1. [Beatmania IIDX Controller, with CAD files to make the box look amazing](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small)
+2. [IIDX - SDVX Hybrid Controller (incomplete)](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid)
+3. [Soundvoltex Minicon for $90](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon)
 
 ### TO DO List:
 
-- Add Copals as an alternative, also how to mount them
-- Add Arcade measures as an alternative to SVSE measures
 - Add skins to download
 
 <hr>
@@ -61,9 +59,9 @@ The main board will be a Teensy 3.2, and alternatively a Leonardo Arduino PCB.
 
 The source of the information was collected by me, and I also used info from some other sources, like the code and measurements.
 
-The Leonardo code is a modification of another tutorial you can see here: https://github.com/4yn/iivx
+The Leonardo code is a modification of another tutorial you can see here: [github user 4yn](https://github.com/4yn/iivx)
 
-The Teensy 3.2 code was made by user WAFU from the Ainsun Discord server, and I don't have the source, only the prepackaged file ready to upload.
+The Teensy 3.2 firmware was made by user WAFU from the Ainsun Discord server, and I don't have the source, only the firmware file ready to upload. If you're reading this WAFU come to my discord! I don't know how else to credit you.
 
 
 <hr>
@@ -91,16 +89,14 @@ Included there's code for both Arduino and Teensy controllers.
 
 ![enter image description here](http://imgur.com/4ZYRcuI.jpg)
 
-Alternatively you can use a Leonardo Arduino PCB with similar results.
-
 <hr> 
 
 ## Code and CAD files
 
 All the files are in my github repository, included:
-* Teensy 3.2 hex file (code)
+* Teensy 3.2 hex file (firmware)
 * Leonardo Arduino code (.ino file and libs)
-* Box measures
+* Box measures (pdf file)
 * CAD file for acrylic / plexiglass laser cutting
 
 https://github.com/lizardbeans/sdvx-diy 
@@ -109,11 +105,9 @@ https://github.com/lizardbeans/sdvx-diy
 
 **How to upload the code on the Teensy 3.2 PCB.**
 
-* Download and install ARDUINO IDE v1.8
-https://www.arduino.cc/en/Main/OldSoftwareReleases#previous 
+* Download and install [ARDUINO IDE v1.8](https://www.arduino.cc/en/Main/OldSoftwareReleases#previous)
 
-* Download and install Teensyduino
-https://www.pjrc.com/teensy/td_download.html
+* Download and install [Teensyduino](https://www.pjrc.com/teensy/td_download.html)
 
 * Add these lines to the **C:\Program Files (x86)\Arduino\hardware\teensy\avr boards.txt** file and save.
 
@@ -123,7 +117,7 @@ https://www.pjrc.com/teensy/td_download.html
 
 Then add the 4 **usb_arcade** and **usb_desc** files inside yout **core/teensy3** folder and overwirte existing files.
 
->Alternatively download the whole set of folders and paste into Program Files.
+>Alternatively download the whole set of folders from the github and paste into Program Files.
 
 * Open Arduino IDE v1.8 
 * In the *Tools* menu choose Board Type: Teensy 3.2
@@ -131,24 +125,25 @@ Then add the 4 **usb_arcade** and **usb_desc** files inside yout **core/teensy3*
 * On the Arduino IDE screen press the verification button with a blank file (the verification button looks like a *aprooved tick*)
 * It'll open a small Teensyduino screen.
 * Hit the "Open HEX file" button on the Teensyduino screen and choose the hex file provided in the github repository.
-* Manually click the button that's on top of the Teensy PCB, and it'll upload.
+* Manually click the hardware button that's on top of the Teensy PCB, and it'll upload.
 * After a few seconds it'll be done.
 
-For testing the buttons try http://html5gamepad.com/
+>Sometimes windows won't recognize the controller as a USB device to test the buttons.
+>For testing the buttons try http://html5gamepad.com/
 
 <hr>
 
 ## Part List / Hardware
 
-Here I include all the stuff you'll need to make the controller most important parts. Be sure to read everything before buying so you know what you're getting into. Also use the links described below so you don't end up with any surprises, like cheap chinese buttons or shorter wires.
+Here I include all the stuff you'll need to make the controller most important parts. Be sure to read everything before buying so you know what you're getting into. Also use the links described below so you don't end up with any surprises, like cheap chinese buttons or shorter wires. If I missed something you can ask in the Discord server.
 
 Read the notes at the end of each item so you know some negative things about each store or webpage.
 
-###Tools
+### Tools
 
-* Soldering Pen / Soldering Station
+* Soldering Pen / Soldering Station (this is a must have, buy one or borrow one from a friend)
 * 60/40 risin core solder
-* Crimper
+* Crimper (optional, you can also crimp with pliers, although it's harder)
 * Wire cutter
 * Wire stripper
 * Pliers
@@ -162,7 +157,7 @@ Read the notes at the end of each item so you know some negative things about ea
 	* 5mm wood bit
 
 The soldering pen is mandatory for the Teensy board. Buy the risin core solder because it's easier to melt.
-The crimper will make your job easier, but you can also crimp using pliers (if you dare).
+The crimper will make your job easier, but you can also crimp using pliers (harder to do).
 
 To make the box a jigsaw is the best tool to make the holes, and the spade bit is good to make round corners in those holes.
 
@@ -171,13 +166,14 @@ To make the box a jigsaw is the best tool to make the holes, and the spade bit i
 Next I'll leave a list of things to buy either if you're going to use a Teensy 3.2 or a Leonardo. 
 
 I suggest using the sellers I put there but you're free to chose another one if you don't mind some minor differences.
+If a link goes ***404*** ask in the Discord channel or use Google to search an alternative. Amazon, Ebay, Aliexpress and DealExtreme are good places to search for these things.
 
-##For Arduino LEONARDO
+## For Arduino LEONARDO
 
 | ITEM                           | IMAGE | QUANTITY | LINKS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | NOTES                                                                                                                     |
 |--------------------------------|-------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| Arduino Leonardo               | ![leonardo](http://i.imgur.com/U1CyitI.jpg)     | 1        | [DealExtreme](http://www.dx.com/p/diy-leonardo-r3-module-for-arduino-works-with-official-arduino-boards-blue-376823#.WH4Ie_nhAVA)   [Amazon](https://www.amazon.com/Qunqi-Leonardo-R3-development-Microcontroller/dp/B014H52DT4/ref=sr_1_1?s=electronics&ie=UTF8&qid=1501526944&sr=1-1-spons&keywords=arduino+leonardo&psc=1)            [Ebay](http://www.ebay.com/itm/Official-GENUINE-Arduino-LEONARDO-ATmega32u4-R3-Board-with-Free-USB-Cable-/151757125067?epid=512544962&hash=item23556df5cb:g:6WkAAOSwys5WV7Lb)                                                                                                                                | Try local electronic stuff stores. They're usually cheaper and closer.                                                                     |
-| Encoder (600ppr)               | ![encoder](http://i.imgur.com/aQWAdH0.png)     | 2        | [AliExpress](https://es.aliexpress.com/store/product/1-unid-Nueva-Encoder-600-P-R-Incremental-AB-2-Fase-de-5-V-24-V/1305558_32669741048.html)   [Amazon](https://www.amazon.com/Signswise-Incremental-Encoder-Dc5-24v-Voltage/dp/B00UTIFCVA/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1501527001&sr=1-1-catcorr&keywords=encoder+600+ppr)   [Ebay](http://www.ebay.com/itm/New-Encoder-600-P-R-5V-24V-Incremental-Rotary-AB-2-Phase-6mm-Shaft-/162190810777)                                                                                                                                                                           | If you want to use other type of encoder (like a 400ppr one)   you'll need to change part of the code. Mostly the sensitivity.                    |
+| Arduino Leonardo               | <img source="http://i.imgur.com/U1CyitI.jpg" width="100" /img>     | 1        | [DealExtreme](http://www.dx.com/p/diy-leonardo-r3-module-for-arduino-works-with-official-arduino-boards-blue-376823#.WH4Ie_nhAVA)   [Amazon](https://www.amazon.com/Qunqi-Leonardo-R3-development-Microcontroller/dp/B014H52DT4/ref=sr_1_1?s=electronics&ie=UTF8&qid=1501526944&sr=1-1-spons&keywords=arduino+leonardo&psc=1)            [Ebay](http://www.ebay.com/itm/Official-GENUINE-Arduino-LEONARDO-ATmega32u4-R3-Board-with-Free-USB-Cable-/151757125067?epid=512544962&hash=item23556df5cb:g:6WkAAOSwys5WV7Lb)                                                                                                                                | Try local electronic stuff stores. They're usually cheaper and closer.                                                                     |
+| Encoder (600ppr)               | ![encoder](http://i.imgur.com/aQWAdH0.png =100px)     | 2        | [AliExpress](https://es.aliexpress.com/store/product/1-unid-Nueva-Encoder-600-P-R-Incremental-AB-2-Fase-de-5-V-24-V/1305558_32669741048.html)   [Amazon](https://www.amazon.com/Signswise-Incremental-Encoder-Dc5-24v-Voltage/dp/B00UTIFCVA/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1501527001&sr=1-1-catcorr&keywords=encoder+600+ppr)   [Ebay](http://www.ebay.com/itm/New-Encoder-600-P-R-5V-24V-Incremental-Rotary-AB-2-Phase-6mm-Shaft-/162190810777)                                                                                                                                                                           | If you want to use other type of encoder (like a 400ppr one)   you'll need to change part of the code. Mostly the sensitivity.                    |
 | Aluminium Knobs                | ![hifi knobs](http://i.imgur.com/Rn4MUli.png)     | 2        | [AliExpress](https://es.aliexpress.com/store/product/Free-Shipping-diameter-30-High-22-All-aluminum-alloy-knob-Potentiometer-knob-HIFI-audio-amplifier-knob/1799190_32619270123.html)   [Ebay](http://www.ebay.com/itm/1PCS-30mmDIAx22-Aluminum-STEREO-VOLUME-CONTROL-KNOB-/380905947186?pt=LH_DefaultDomain_0&hash=item58afc38032)    [Amazon](https://www.amazon.com/uxcell-Aluminium-Alloy-Speaker-Control/dp/B00X73QARO)                                                                                                                                                                                                       | You can search for "hi-fi knobs" on other stores. They have to be not smaller than 30x22mm.                                                                          |
 | Buttons 60x60                  | ![60 button](http://i.imgur.com/mJtIC1y.jpg)     | 4        | [Sanwa Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_080/)    [Aliexpress](https://es.aliexpress.com/item/high-quality-4pcs-lot-Square-60-60mm-Lighted-Buttons-Illuminated-Push-Button-with-Micro-switch-for/32611880107.html)                                                                                                                                                                                                                                                                                                                                                                                               | Sanwas are the real thing but expensive. Chinese are good enough. If you buy SANWAS the shipping will be expensive too. |
 | Buttons 30x30                  | ![30x30 button](http://i.imgur.com/ePiRrdP.png)     | 1        | [SANWA Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_016/)    [AliExpress](https://es.aliexpress.com/store/product/32mm-Square-Arcade-Button-LED-Illuminated-Push-Button-with-Microswitch-for-Arcade-Games-DC-12V-5/2812058_32804514696.html)   [Ebay](http://www.ebay.com/itm/33mm-square-game-machine-push-button-arcade-LED-illuminated-push-button-7N-/292149166950)   [Amazon](https://www.amazon.com/BQLZR-Square-Illuminated-Button-Machinery/dp/B00Z5PHXG4)                                                                                                                                                   | Same with the 60x60 buttons. SANWA's are better but don't spend too much on the start button, ok?|

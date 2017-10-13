@@ -172,41 +172,41 @@ If a link goes ***404*** ask in the Discord channel or use Google to search an a
 
 | ITEM                           | IMAGE | QUANTITY | LINKS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | NOTES                                                                                                                     |
 |--------------------------------|-------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| Arduino Leonardo               | <img source="http://i.imgur.com/U1CyitI.jpg" width="100" /img>     | 1        | [DealExtreme](http://www.dx.com/p/diy-leonardo-r3-module-for-arduino-works-with-official-arduino-boards-blue-376823#.WH4Ie_nhAVA)   [Amazon](https://www.amazon.com/Qunqi-Leonardo-R3-development-Microcontroller/dp/B014H52DT4/ref=sr_1_1?s=electronics&ie=UTF8&qid=1501526944&sr=1-1-spons&keywords=arduino+leonardo&psc=1)            [Ebay](http://www.ebay.com/itm/Official-GENUINE-Arduino-LEONARDO-ATmega32u4-R3-Board-with-Free-USB-Cable-/151757125067?epid=512544962&hash=item23556df5cb:g:6WkAAOSwys5WV7Lb)                                                                                                                                | Try local electronic stuff stores. They're usually cheaper and closer.                                                                     |
-| Encoder (600ppr)               | ![encoder](http://i.imgur.com/aQWAdH0.png =100px)     | 2        | [AliExpress](https://es.aliexpress.com/store/product/1-unid-Nueva-Encoder-600-P-R-Incremental-AB-2-Fase-de-5-V-24-V/1305558_32669741048.html)   [Amazon](https://www.amazon.com/Signswise-Incremental-Encoder-Dc5-24v-Voltage/dp/B00UTIFCVA/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1501527001&sr=1-1-catcorr&keywords=encoder+600+ppr)   [Ebay](http://www.ebay.com/itm/New-Encoder-600-P-R-5V-24V-Incremental-Rotary-AB-2-Phase-6mm-Shaft-/162190810777)                                                                                                                                                                           | If you want to use other type of encoder (like a 400ppr one)   you'll need to change part of the code. Mostly the sensitivity.                    |
-| Aluminium Knobs                | ![hifi knobs](http://i.imgur.com/Rn4MUli.png)     | 2        | [AliExpress](https://es.aliexpress.com/store/product/Free-Shipping-diameter-30-High-22-All-aluminum-alloy-knob-Potentiometer-knob-HIFI-audio-amplifier-knob/1799190_32619270123.html)   [Ebay](http://www.ebay.com/itm/1PCS-30mmDIAx22-Aluminum-STEREO-VOLUME-CONTROL-KNOB-/380905947186?pt=LH_DefaultDomain_0&hash=item58afc38032)    [Amazon](https://www.amazon.com/uxcell-Aluminium-Alloy-Speaker-Control/dp/B00X73QARO)                                                                                                                                                                                                       | You can search for "hi-fi knobs" on other stores. They have to be not smaller than 30x22mm.                                                                          |
-| Buttons 60x60                  | ![60 button](http://i.imgur.com/mJtIC1y.jpg)     | 4        | [Sanwa Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_080/)    [Aliexpress](https://es.aliexpress.com/item/high-quality-4pcs-lot-Square-60-60mm-Lighted-Buttons-Illuminated-Push-Button-with-Micro-switch-for/32611880107.html)                                                                                                                                                                                                                                                                                                                                                                                               | Sanwas are the real thing but expensive. Chinese are good enough. If you buy SANWAS the shipping will be expensive too. |
-| Buttons 30x30                  | ![30x30 button](http://i.imgur.com/ePiRrdP.png)     | 1        | [SANWA Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_016/)    [AliExpress](https://es.aliexpress.com/store/product/32mm-Square-Arcade-Button-LED-Illuminated-Push-Button-with-Microswitch-for-Arcade-Games-DC-12V-5/2812058_32804514696.html)   [Ebay](http://www.ebay.com/itm/33mm-square-game-machine-push-button-arcade-LED-illuminated-push-button-7N-/292149166950)   [Amazon](https://www.amazon.com/BQLZR-Square-Illuminated-Button-Machinery/dp/B00Z5PHXG4)                                                                                                                                                   | Same with the 60x60 buttons. SANWA's are better but don't spend too much on the start button, ok?|
-| Buttons 33x50                  | ![33x50 button](http://i.imgur.com/M0USm7A.png)     | 2        | [SANWA Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_098/)  [Aliexpress   10pcs.](https://es.aliexpress.com/item/10x-Beatmania-IIDX-Rectangle-LED-Light-Illuminated-Push-Button-Rectangular-buttons-For-Arcade-Coin-Machine-50/32720629306.html?spm=2114.13010608.0.0.3phRJQ)  [SANWA DENSHI   Rakuten](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_100/?s-id=borderless_recommend_item_en)   [Amazon](https://www.amazon.com/Easyget-Rectangular-Illuminated-Beatmania-50mm33mm/dp/B00XL1PZZK)   [Ebay](http://www.ebay.com/itm/Arcade-White-LED-Illuminated-Rectangular-Push-Button-For-Beatmania-IIDX-DIY-Kits-/131974107974) | Ok, for rectangle button chinese are good. Try not to buy the cheapest option, sometime they'll sell you buttons that are too tall. |
-| Microswitch (D2MV-1C3          | ![Switch D2MV](http://i.imgur.com/gFfBD68.png)     | 7        | [Ebay](http://www.ebay.com/itm/D2MV-01-1C3-D2MV-01-1C3-10Pcs-New-Omron-Micro-Switch-free-shipping-/262495416199)   [SANWA   Rakuten](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_223/)   [Mouser](http://www.mouser.com/search/ProductDetail.aspx?R=0virtualkey0virtualkeyD2MV-01-1C3)   [Digikey](https://www.digikey.com/product-detail/es/omron-electronics-inc-emc-div/D2MV-01-1C3/Z4708-ND/5236584.)                                                                                                                                                                                                                               | You can either buy the D series or the VX series. I recommend   the VX.                                                   |
-| Microswitch (VX-01-1CXX)       | ![Switch VX](http://i.imgur.com/H99h5qY.png)     | 7        | [Digikey](https://www.digikey.com/product-detail/en/omron-electronics-inc-emc-div/VX-01-1C23/VX-01-1C23-ND/369962.)   [Mouser](http://www.mouser.com/ProductDetail/Omron-Electronics/VX-01-1C23/?qs=1tDaWCEHQQ6VqzlIAIMCdA%3D%3D)                                                                                                                                                                                                                                                                                                                                                                                                                     | You can either buy the D series or the VX series. I recommend   the VX.                                                   |
-| Stranded wires or Jumper wires | ![wires](http://i.imgur.com/iP6iCxo.png)     | 1        | [DealExtreme (Jumper wires)](http://www.dx.com/p/pvc-male-to-female-arduino-dupont-cables-multicolored-30cm-307052#.WH4I3_nhAVA) [AliExpress](https://es.aliexpress.com/item/10m-20AWG-4-pin-RGB-cable-PVC-insulated-wire-Electric-cable-LED-cable-Free-to-choose/32631719269.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Don't use solid wires, they're less flexible and prone to   break more easily with too much movement.                     |
-| Crimp Connectors 187           | ![187](http://i.imgur.com/6yPc3EH.png)     | 14       | [AliExpress   50pcs.](https://www.aliexpress.com/item/50-pcs-4-8mm-Faston-Crimp-Terminal-187-Female-Connector-and-Transparent-Sheath-Inserted-Spring-Self/32755341225.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | You'll need 2 for each microswitch                                                                                        |
-| Crimp Connectors 250           | ![0](http://i.imgur.com/Gv9X6Rh.png)     | 14       | [AliExpress   25pcs.](https://es.aliexpress.com/item/25-sets-6-3mm-Thickness-0-4mm-Faston-Crimp-Terminal-250-Female-Connector-Transparent-Sheath-insulation/32786820964.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | You'll need 2 for each LED lamp                                                                                           |
-| Cable ties/Belkro ties         | ![0](http://i.imgur.com/ViGnOwh.png)     | 1 or 2   | From your local hardware store, or just use tape.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | For cable managment                                                                                                       |
-| M5 bolts (lenght: 1" or 25mm)          | ![0](http://i.imgur.com/TUHUlJU.png)     | 24       | [AliExpress   30pcs.](https://es.aliexpress.com/item/30pcs-Lot-Metric-Thread-M5-6-8-10-12-14-16-18-20-25-30-35/32609656316.html)   [Ebay](http://www.ebay.com/itm/New-A2-Stainless-Steel-Button-Head-Screws-Hex-Socket-Bolts-M3-M4-M5-M6-M8-M10-/262781348398)                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                           |
-| M5 nuts                        | ![that's nuts!](http://i.imgur.com/di9QSbM.png)     | 24       | [AliExpress   50cps.](https://es.aliexpress.com/item/50pcs-Lot-Free-Shipping-Metric-Thread-M5-304-Stainless-Steel-Hexagon-Nuts-Screw-Nuts-Hex-Nuts/32612699111.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                           |
+| Arduino Leonardo               | <img src='http://i.imgur.com/U1CyitI.jpg' width='100'>     | 1        | [DealExtreme](http://www.dx.com/p/diy-leonardo-r3-module-for-arduino-works-with-official-arduino-boards-blue-376823#.WH4Ie_nhAVA)   [Amazon](https://www.amazon.com/Qunqi-Leonardo-R3-development-Microcontroller/dp/B014H52DT4/ref=sr_1_1?s=electronics&ie=UTF8&qid=1501526944&sr=1-1-spons&keywords=arduino+leonardo&psc=1)            [Ebay](http://www.ebay.com/itm/Official-GENUINE-Arduino-LEONARDO-ATmega32u4-R3-Board-with-Free-USB-Cable-/151757125067?epid=512544962&hash=item23556df5cb:g:6WkAAOSwys5WV7Lb)                                                                                                                                | Try local electronic stuff stores. They're usually cheaper and closer.                                                                     |
+| Encoder (600ppr)               | <img src='http://i.imgur.com/aQWAdH0.png' width='100'>)     | 2        | [AliExpress](https://es.aliexpress.com/store/product/1-unid-Nueva-Encoder-600-P-R-Incremental-AB-2-Fase-de-5-V-24-V/1305558_32669741048.html)   [Amazon](https://www.amazon.com/Signswise-Incremental-Encoder-Dc5-24v-Voltage/dp/B00UTIFCVA/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1501527001&sr=1-1-catcorr&keywords=encoder+600+ppr)   [Ebay](http://www.ebay.com/itm/New-Encoder-600-P-R-5V-24V-Incremental-Rotary-AB-2-Phase-6mm-Shaft-/162190810777)                                                                                                                                                                           | If you want to use other type of encoder (like a 400ppr one)   you'll need to change part of the code. Mostly the sensitivity.                    |
+| Aluminium Knobs                | <img src='http://i.imgur.com/Rn4MUli.png' width='100'>   | 2        | [AliExpress](https://es.aliexpress.com/store/product/Free-Shipping-diameter-30-High-22-All-aluminum-alloy-knob-Potentiometer-knob-HIFI-audio-amplifier-knob/1799190_32619270123.html)   [Ebay](http://www.ebay.com/itm/1PCS-30mmDIAx22-Aluminum-STEREO-VOLUME-CONTROL-KNOB-/380905947186?pt=LH_DefaultDomain_0&hash=item58afc38032)    [Amazon](https://www.amazon.com/uxcell-Aluminium-Alloy-Speaker-Control/dp/B00X73QARO)                                                                                                                                                                                                       | You can search for "hi-fi knobs" on other stores. They have to be not smaller than 30x22mm.                                                                          |
+| Buttons 60x60                  | <img src='http://i.imgur.com/mJtIC1y.jpg' width='100'>     | 4        | [Sanwa Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_080/)    [Aliexpress](https://es.aliexpress.com/item/high-quality-4pcs-lot-Square-60-60mm-Lighted-Buttons-Illuminated-Push-Button-with-Micro-switch-for/32611880107.html)                                                                                                                                                                                                                                                                                                                                                                                               | Sanwas are the real thing but expensive. Chinese are good enough. If you buy SANWAS the shipping will be expensive too. |
+| Buttons 30x30                  | <img src='http://i.imgur.com/ePiRrdP.png' width='100'>     | 1        | [SANWA Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_016/)    [AliExpress](https://es.aliexpress.com/store/product/32mm-Square-Arcade-Button-LED-Illuminated-Push-Button-with-Microswitch-for-Arcade-Games-DC-12V-5/2812058_32804514696.html)   [Ebay](http://www.ebay.com/itm/33mm-square-game-machine-push-button-arcade-LED-illuminated-push-button-7N-/292149166950)   [Amazon](https://www.amazon.com/BQLZR-Square-Illuminated-Button-Machinery/dp/B00Z5PHXG4)                                                                                                                                                   | Same with the 60x60 buttons. SANWA's are better but don't spend too much on the start button, ok?|
+| Buttons 33x50                  | <img src='http://i.imgur.com/M0USm7A.png' width='100'>     | 2        | [SANWA Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_098/)  [Aliexpress   10pcs.](https://es.aliexpress.com/item/10x-Beatmania-IIDX-Rectangle-LED-Light-Illuminated-Push-Button-Rectangular-buttons-For-Arcade-Coin-Machine-50/32720629306.html?spm=2114.13010608.0.0.3phRJQ)  [SANWA DENSHI   Rakuten](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_100/?s-id=borderless_recommend_item_en)   [Amazon](https://www.amazon.com/Easyget-Rectangular-Illuminated-Beatmania-50mm33mm/dp/B00XL1PZZK)   [Ebay](http://www.ebay.com/itm/Arcade-White-LED-Illuminated-Rectangular-Push-Button-For-Beatmania-IIDX-DIY-Kits-/131974107974) | Ok, for rectangle button chinese are good. Try not to buy the cheapest option, sometime they'll sell you buttons that are too tall. |
+| Microswitch (D2MV-1C3          | <img src='http://i.imgur.com/gFfBD68.png' width='100'>     | 7        | [Ebay](http://www.ebay.com/itm/D2MV-01-1C3-D2MV-01-1C3-10Pcs-New-Omron-Micro-Switch-free-shipping-/262495416199)   [SANWA   Rakuten](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_223/)   [Mouser](http://www.mouser.com/search/ProductDetail.aspx?R=0virtualkey0virtualkeyD2MV-01-1C3)   [Digikey](https://www.digikey.com/product-detail/es/omron-electronics-inc-emc-div/D2MV-01-1C3/Z4708-ND/5236584.)                                                                                                                                                                                                                               | You can either buy the D series or the VX series. I recommend   the VX.                                                   |
+| Microswitch (VX-01-1CXX)       |<img src='http://i.imgur.com/H99h5qY.png' width='100'>     | 7        | [Digikey](https://www.digikey.com/product-detail/en/omron-electronics-inc-emc-div/VX-01-1C23/VX-01-1C23-ND/369962.)   [Mouser](http://www.mouser.com/ProductDetail/Omron-Electronics/VX-01-1C23/?qs=1tDaWCEHQQ6VqzlIAIMCdA%3D%3D)                                                                                                                                                                                                                                                                                                                                                                                                                     | You can either buy the D series or the VX series. I recommend   the VX.                                                   |
+| Stranded wires or Jumper wires | <img src='http://i.imgur.com/iP6iCxo.png' width='100'>     | 1        | [DealExtreme (Jumper wires)](http://www.dx.com/p/pvc-male-to-female-arduino-dupont-cables-multicolored-30cm-307052#.WH4I3_nhAVA) [AliExpress](https://es.aliexpress.com/item/10m-20AWG-4-pin-RGB-cable-PVC-insulated-wire-Electric-cable-LED-cable-Free-to-choose/32631719269.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Don't use solid wires, they're less flexible and prone to   break more easily with too much movement.                     |
+| Crimp Connectors 187           | <img src='http://i.imgur.com/6yPc3EH.png' width='100'>     | 14       | [AliExpress   50pcs.](https://www.aliexpress.com/item/50-pcs-4-8mm-Faston-Crimp-Terminal-187-Female-Connector-and-Transparent-Sheath-Inserted-Spring-Self/32755341225.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | You'll need 2 for each microswitch                                                                                        |
+| Crimp Connectors 250           | <img src='http://i.imgur.com/Gv9X6Rh.png' width='100'>     | 14       | [AliExpress   25pcs.](https://es.aliexpress.com/item/25-sets-6-3mm-Thickness-0-4mm-Faston-Crimp-Terminal-250-Female-Connector-Transparent-Sheath-insulation/32786820964.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | You'll need 2 for each LED lamp                                                                                           |
+| Cable ties/Belkro ties         | <img src='http://i.imgur.com/ViGnOwh.png' width='100'>     | 1 or 2   | From your local hardware store, or just use tape.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | For cable managment                                                                                                       |
+| M5 bolts (lenght: 1" or 25mm)          | <img src='http://i.imgur.com/TUHUlJU.png' width='100'>     | 24       | [AliExpress   30pcs.](https://es.aliexpress.com/item/30pcs-Lot-Metric-Thread-M5-6-8-10-12-14-16-18-20-25-30-35/32609656316.html)   [Ebay](http://www.ebay.com/itm/New-A2-Stainless-Steel-Button-Head-Screws-Hex-Socket-Bolts-M3-M4-M5-M6-M8-M10-/262781348398)                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                           |
+| M5 nuts                        | <img src='http://i.imgur.com/di9QSbM.png' width='100'>     | 24       | [AliExpress   50cps.](https://es.aliexpress.com/item/50pcs-Lot-Free-Shipping-Metric-Thread-M5-304-Stainless-Steel-Hexagon-Nuts-Screw-Nuts-Hex-Nuts/32612699111.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                           |
 
 ##For TEENSY 3.2
 
 | ITEM                               | IMAGE | QUANTITY | LINKS                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | NOTES                                                                                                                              |
 |------------------------------------|-------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Teensy 3.2                         | ![teeeeeeeensy](https://www.pjrc.com/store/teensy32.jpg)     | 1        | [Official site](https://www.pjrc.com/store/teensy32.html)   [Amazon]() [Ebay]()                                                                                                                                                                                                                                                                                                                                                                                             | Dont buy fake ones! Those are poorly made and prone to fail.   If the LED on your Teensy is other than color RED then it's probably a fake. |
+| Teensy 3.2                         | <img src='https://www.pjrc.com/store/teensy32.jpg' width='100'>      | 1        | [Official site](https://www.pjrc.com/store/teensy32.html)   [Amazon]() [Ebay]()                                                                                                                                                                                                                                                                                                                                                                                             | Dont buy fake ones! Those are poorly made and prone to fail.   If the LED on your Teensy is other than color RED then it's probably a fake. |
 | Perforated Board 6x8cm             | 0     | 1        | [AliExpress](https://www.aliexpress.com/item/6-8CM-1-6mm-2-54mm-Pitch-Double-Side-Prototype-PCB-Universal-Printed-Circuit-Board/32323224375.html)                                                                                                                                                                                                                                                                                                                           | Use this one to solder the Teensy on                                                                                    |
-| Pin strip                          | ![pinstrip](https://cdn.solarbotics.com/products/photos/d1866cb1e95ada5d14ea0d5b0cf49525/83600-951112-8622-ar.JPG)     | 1        | [AliExpress](https://es.aliexpress.com/store/product/100PCS-LOT-40PIN-11CM-2-54MM-Pitch-Single-Row-Pin/610196_2045909393.html)                                                                                                                                                                                                                                                                                                                                              | Use this to make it easier to solder or mount on the Perfboard                                                                  |
-| Encoder (600ppr)                   | ![encoder booiiss](http://i.imgur.com/aQWAdH0.png)     | 2        | [AliExpress](https://es.aliexpress.com/store/product/1-unid-Nueva-Encoder-600-P-R-Incremental-AB-2-Fase-de-5-V-24-V/1305558_32669741048.html)   [Amazon](https://www.amazon.com/Signswise-Incremental-Encoder-Dc5-24v-Voltage/dp/B00UTIFCVA/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1501527001&sr=1-1-catcorr&keywords=encoder+600+ppr)   [Ebay](http://www.ebay.com/itm/New-Encoder-600-P-R-5V-24V-Incremental-Rotary-AB-2-Phase-6mm-Shaft-/162190810777) | These are standard chinese encoders. They're always $10 each. They're good quality though. Don't listen to COPAL's followers, they'll always tell you that copals are the best.                                                                                  |
-| Aluminium Knobs                    | ![yo man, don't be a knob!](http://i.imgur.com/Rn4MUli.png)     | 2        | [AliExpress](https://es.aliexpress.com/store/product/Free-Shipping-diameter-30-High-22-All-aluminum-alloy-knob-Potentiometer-knob-HIFI-audio-amplifier-knob/1799190_32619270123.html)   [Ebay](http://www.ebay.com/itm/1PCS-30mmDIAx22-Aluminum-STEREO-VOLUME-CONTROL-KNOB-/380905947186?pt=LH_DefaultDomain_0&hash=item58afc38032)    [Amazon](https://www.amazon.com/uxcell-Aluminium-Alloy-Speaker-Control/dp/B00X73QARO)                             | You can search for "hi-fi knobs" on other stores. No smaller than 30x22mm                                                                                   |
-| Buttons 60x60                      | ![0](http://i.imgur.com/mJtIC1y.jpg)     | 4        | [Sanwa Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_080/)  [Aliexpress]() [Amazon]() [Ebay]()                                                                                                                                                                                                                                                                                                                                                                       | Sanwas are the real thing but expensive. Chinese are good   enough. If you buy SANWAS the shipping will be expensive too.          |
-| Buttons 30x30                      | ![reference 30 button](http://i.imgur.com/ePiRrdP.png)     | 1        | [SANWA Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_016/)    [AliExpress](https://es.aliexpress.com/item/high-quality-4pcs-lot-Square-60-60mm-Lighted-Buttons-Illuminated-Push-Button-with-Micro-switch-for/32611880107.html)                                                                                                                                                                                               | Same as with the 60x60 buttons. But don't spend you whole allowance on the start button.         |
-| Buttons 25x50                      | ![IIDX button yo!](http://i.imgur.com/M0USm7A.png)     | 2        | [SANWA Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_098/)  [Aliexpress   10pcs.](https://es.aliexpress.com/item/10x-Beatmania-IIDX-Rectangle-LED-Light-Illuminated-Push-Button-Rectangular-buttons-For-Arcade-Coin-Machine-50/32720629306.html?spm=2114.13010608.0.0.3phRJQ)  [SANWA DENSHI   Rakuten](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_100/?s-id=borderless_recommend_item_en)                                                            | Buy chinese. Chinese are good. Not the cheapest ones though, sometimes they'll sell you taller buttons.         |
-| Microswitch (D series)             | ![swtich D](http://i.imgur.com/gFfBD68.png)     | 7        | [Ebay](http://www.ebay.com/itm/D2MV-01-1C3-D2MV-01-1C3-10Pcs-New-Omron-Micro-Switch-free-shipping-/262495416199)   [SANWA   Rakuten](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_223/)   [Mouser](http://www.mouser.com/search/ProductDetail.aspx?R=0virtualkey0virtualkeyD2MV-01-1C3)   [Digikey](https://www.digikey.com/product-detail/es/omron-electronics-inc-emc-div/D2MV-01-1C3/Z4708-ND/5236584.)                                                     | You can either buy the D series or the VX series. I recommend   the VX.                                                            |
-| Microswitch (VX series)            | ![switch V](http://i.imgur.com/H99h5qY.png)     | 7        | [Digikey](https://www.digikey.com/product-detail/en/omron-electronics-inc-emc-div/VX-01-1C23/VX-01-1C23-ND/369962.)   [Mouser](http://www.mouser.com/ProductDetail/Omron-Electronics/VX-01-1C23/?qs=1tDaWCEHQQ6VqzlIAIMCdA%3D%3D)                                                                                                                                                                                                                                           | You can either buy the D series or the VX series. I recommend   the VX.                                                            |
-| 4 pin PH connector with 30cm wires | ![4 pin PH wire](http://i.imgur.com/hEbBqOl.jpg?1)     | 9        | [AliExpress](https://es.aliexpress.com/item/10PCS-lot-leng-30cm-Connector-Leads-Header-2-0mm-PH-2P-3P-4P-5P-6P-7P/32786407991.html?spm=a219c.10010108.1000016.1.GX6ntU&isOrigTitle=true)   [Ebay](http://www.ebay.com/itm/30cm-Set-of-2P-3P-4P-5P-6P-8P-10P-PH2-0-2-0mm-Pin-Wire-Cable-Straight-Right-Plug-/263042274891)   [Amazon](https://www.amazon.com/2-0MM-Female-Single-Connector-Wires/dp/B01JG1F0SA)                                                              | I used this connectors that are smaller, but you can try using XH connector wires. Also use 30cm wires, not 15cm wires. **Again, 25 to 30cm wires are what you need** not those puny 15cm wires.         |
-| Crimp Connectors 187               | ![187](http://i.imgur.com/6yPc3EH.png)     | 14       | [AliExpress   50pcs.](https://www.aliexpress.com/item/50-pcs-4-8mm-Faston-Crimp-Terminal-187-Female-Connector-and-Transparent-Sheath-Inserted-Spring-Self/32755341225.html)                                                                                                                                                                                                                                                                                                 | You'll need 2 for each microswitch                                                                                                 |
-| Crimp Connectors 250               | ![250](http://i.imgur.com/Gv9X6Rh.png)     | 14       | [AliExpress   25pcs.](https://es.aliexpress.com/item/25-sets-6-3mm-Thickness-0-4mm-Faston-Crimp-Terminal-250-Female-Connector-Transparent-Sheath-insulation/32786820964.html)                                                                                                                                                                                                                                                                                               | You'll need 2 for each LED lamp                                                                                                    |
-| Cable ties/Belkro ties             | ![cable ties](http://i.imgur.com/ViGnOwh.png)     | 1 or 2   | From your local hardware store, or just use tape.                                                                                                                                                                                                                                                                                                                                                                                                                           | For cable managment                                                                                                                |
-| M5 bolts (lenght: 1" or 25mm)              | ![M5 bolt](http://i.imgur.com/TUHUlJU.png)     | 24       | [AliExpress   30pcs.](https://es.aliexpress.com/item/30pcs-Lot-Metric-Thread-M5-6-8-10-12-14-16-18-20-25-30-35/32609656316.html)   [Ebay](http://www.ebay.com/itm/New-A2-Stainless-Steel-Button-Head-Screws-Hex-Socket-Bolts-M3-M4-M5-M6-M8-M10-/262781348398)                                                                                                                                                                                                              |                                                                                                                                    |
-| M5 nuts                            | ![that's nuts](http://i.imgur.com/di9QSbM.png)     | 24       | [AliExpress   50cps.](https://es.aliexpress.com/item/50pcs-Lot-Free-Shipping-Metric-Thread-M5-304-Stainless-Steel-Hexagon-Nuts-Screw-Nuts-Hex-Nuts/32612699111.html)                                                                                                                                                                                                                                                                                                        |                                                                                                                                    |
+| Pin strip                          | <img src='https://cdn.solarbotics.com/products/photos/d1866cb1e95ada5d14ea0d5b0cf49525/83600-951112-8622-ar.JPG' width='100'>      | 1        | [AliExpress](https://es.aliexpress.com/store/product/100PCS-LOT-40PIN-11CM-2-54MM-Pitch-Single-Row-Pin/610196_2045909393.html)                                                                                                                                                                                                                                                                                                                                              | Use this to make it easier to solder or mount on the Perfboard                                                                  |
+| Encoder (600ppr)                   | <img src='http://i.imgur.com/aQWAdH0.png' width='100'>      | 2        | [AliExpress](https://es.aliexpress.com/store/product/1-unid-Nueva-Encoder-600-P-R-Incremental-AB-2-Fase-de-5-V-24-V/1305558_32669741048.html)   [Amazon](https://www.amazon.com/Signswise-Incremental-Encoder-Dc5-24v-Voltage/dp/B00UTIFCVA/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1501527001&sr=1-1-catcorr&keywords=encoder+600+ppr)   [Ebay](http://www.ebay.com/itm/New-Encoder-600-P-R-5V-24V-Incremental-Rotary-AB-2-Phase-6mm-Shaft-/162190810777) | These are standard chinese encoders. They're always $10 each. They're good quality though. Don't listen to COPAL's followers, they'll always tell you that copals are the best.                                                                                  |
+| Aluminium Knobs                    | <img src='http://i.imgur.com/Rn4MUli.png' width='100'>      | 2        | [AliExpress](https://es.aliexpress.com/store/product/Free-Shipping-diameter-30-High-22-All-aluminum-alloy-knob-Potentiometer-knob-HIFI-audio-amplifier-knob/1799190_32619270123.html)   [Ebay](http://www.ebay.com/itm/1PCS-30mmDIAx22-Aluminum-STEREO-VOLUME-CONTROL-KNOB-/380905947186?pt=LH_DefaultDomain_0&hash=item58afc38032)    [Amazon](https://www.amazon.com/uxcell-Aluminium-Alloy-Speaker-Control/dp/B00X73QARO)                             | You can search for "hi-fi knobs" on other stores. No smaller than 30x22mm                                                                                   |
+| Buttons 60x60                      | <img src='http://i.imgur.com/mJtIC1y.jpg' width='100'>      | 4        | [Sanwa Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_080/)  [Aliexpress]() [Amazon]() [Ebay]()                                                                                                                                                                                                                                                                                                                                                                       | Sanwas are the real thing but expensive. Chinese are good   enough. If you buy SANWAS the shipping will be expensive too.          |
+| Buttons 30x30                      | <img src='http://i.imgur.com/ePiRrdP.png' width='100'>      | 1        | [SANWA Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_016/)    [AliExpress](https://es.aliexpress.com/item/high-quality-4pcs-lot-Square-60-60mm-Lighted-Buttons-Illuminated-Push-Button-with-Micro-switch-for/32611880107.html)                                                                                                                                                                                               | Same as with the 60x60 buttons. But don't spend you whole allowance on the start button.         |
+| Buttons 25x50                      | <img src='http://i.imgur.com/M0USm7A.png' width='100'>      | 2        | [SANWA Rakuten](http://item.rakuten.co.jp/sanwadenshi/ilumb_098/)  [Aliexpress   10pcs.](https://es.aliexpress.com/item/10x-Beatmania-IIDX-Rectangle-LED-Light-Illuminated-Push-Button-Rectangular-buttons-For-Arcade-Coin-Machine-50/32720629306.html?spm=2114.13010608.0.0.3phRJQ)  [SANWA DENSHI   Rakuten](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_100/?s-id=borderless_recommend_item_en)                                                            | Buy chinese. Chinese are good. Not the cheapest ones though, sometimes they'll sell you taller buttons.         |
+| Microswitch (D series)             | <img src='http://i.imgur.com/gFfBD68.png' width='100'>      | 7        | [Ebay](http://www.ebay.com/itm/D2MV-01-1C3-D2MV-01-1C3-10Pcs-New-Omron-Micro-Switch-free-shipping-/262495416199)   [SANWA   Rakuten](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_223/)   [Mouser](http://www.mouser.com/search/ProductDetail.aspx?R=0virtualkey0virtualkeyD2MV-01-1C3)   [Digikey](https://www.digikey.com/product-detail/es/omron-electronics-inc-emc-div/D2MV-01-1C3/Z4708-ND/5236584.)                                                     | You can either buy the D series or the VX series. I recommend   the VX.                                                            |
+| Microswitch (VX series)            | <img src='http://i.imgur.com/H99h5qY.png' width='100'>      | 7        | [Digikey](https://www.digikey.com/product-detail/en/omron-electronics-inc-emc-div/VX-01-1C23/VX-01-1C23-ND/369962.)   [Mouser](http://www.mouser.com/ProductDetail/Omron-Electronics/VX-01-1C23/?qs=1tDaWCEHQQ6VqzlIAIMCdA%3D%3D)                                                                                                                                                                                                                                           | You can either buy the D series or the VX series. I recommend   the VX.                                                            |
+| 4 pin PH connector with 30cm wires | <img src='http://i.imgur.com/hEbBqOl.jpg?1' width='100'>      | 9        | [AliExpress](https://es.aliexpress.com/item/10PCS-lot-leng-30cm-Connector-Leads-Header-2-0mm-PH-2P-3P-4P-5P-6P-7P/32786407991.html?spm=a219c.10010108.1000016.1.GX6ntU&isOrigTitle=true)   [Ebay](http://www.ebay.com/itm/30cm-Set-of-2P-3P-4P-5P-6P-8P-10P-PH2-0-2-0mm-Pin-Wire-Cable-Straight-Right-Plug-/263042274891)   [Amazon](https://www.amazon.com/2-0MM-Female-Single-Connector-Wires/dp/B01JG1F0SA)                                                              | I used this connectors that are smaller, but you can try using XH connector wires. Also use 30cm wires, not 15cm wires. **Again, 25 to 30cm wires are what you need** not those puny 15cm wires.         |
+| Crimp Connectors 187               | <img src='http://i.imgur.com/6yPc3EH.png' width='100'>      | 14       | [AliExpress   50pcs.](https://www.aliexpress.com/item/50-pcs-4-8mm-Faston-Crimp-Terminal-187-Female-Connector-and-Transparent-Sheath-Inserted-Spring-Self/32755341225.html)                                                                                                                                                                                                                                                                                                 | You'll need 2 for each microswitch                                                                                                 |
+| Crimp Connectors 250               | <img src='http://i.imgur.com/Gv9X6Rh.png' width='100'>      | 14       | [AliExpress   25pcs.](https://es.aliexpress.com/item/25-sets-6-3mm-Thickness-0-4mm-Faston-Crimp-Terminal-250-Female-Connector-Transparent-Sheath-insulation/32786820964.html)                                                                                                                                                                                                                                                                                               | You'll need 2 for each LED lamp                                                                                                    |
+| Cable ties/Belkro ties             | <img src='http://i.imgur.com/ViGnOwh.png' width='100'>      | 1 or 2   | From your local hardware store, or just use tape.                                                                                                                                                                                                                                                                                                                                                                                                                           | For cable managment                                                                                                                |
+| M5 bolts (lenght: 1" or 25mm)      | <img src='http://i.imgur.com/TUHUlJU.png' width='100'>      | 24       | [AliExpress   30pcs.](https://es.aliexpress.com/item/30pcs-Lot-Metric-Thread-M5-6-8-10-12-14-16-18-20-25-30-35/32609656316.html)   [Ebay](http://www.ebay.com/itm/New-A2-Stainless-Steel-Button-Head-Screws-Hex-Socket-Bolts-M3-M4-M5-M6-M8-M10-/262781348398)                                                                                                                                                                                                              |                                                                                                                                    |
+| M5 nuts                            | <img src='http://i.imgur.com/di9QSbM.png' width='100'>      | 24       | [AliExpress   50cps.](https://es.aliexpress.com/item/50pcs-Lot-Free-Shipping-Metric-Thread-M5-304-Stainless-Steel-Hexagon-Nuts-Screw-Nuts-Hex-Nuts/32612699111.html)                                                                                                                                                                                                                                                                                                        |                                                                                                                                    |
 
 <hr>
 
@@ -217,6 +217,7 @@ Building the box for your controller is not an easy task, but I'll try to make i
 If you find that using acrylic / plexiglass is too expensive, you can use the same measures to make it out of wood.
 
 Take a look at the gallery at the bottom to see other controller's made by other people.
+I'll show you a way to make a box but there's lots of ways to make one.
 
 ![Acrylic laser cut](http://sdvx-diy.pancakeapps.com/pics/pic031.png)
   
@@ -242,7 +243,7 @@ Keep in mind that this box's measures are 3mm short on each side so you can fit 
 For these project we're using two types of acrylic (a.k.a. plexiglass in the US) to cover the entire box of the controller and to mount the keypad and the turntable.
 Since we can't buy a original turntable we'll be making one out of acrylic that works just as good.
 
-For this part I extremely recommend getting the job done by a local acrylic store and not by hand. Acrylic is hard stuff and it's quite toxic to breathe its dust so you're better paying for this. If you don't have the money then it's up to you!
+For this part I extremely recommend getting the job done by a local acrylic store and not by hand. Acrylic is hard stuff and it's quite toxic to breathe its dust so you're better off paying for this. If you don't have the money then it's up to you!
 
 For this job I have a CAD file that includes all the stuff you need in a 60 by 60cm piece of acrylic. Some stores sell you the whole piece + laser cuts, others stores will bill you by piece, that depends on where you're doing the job. I won't recommend any place other than the closest local store you have, since shipping is just as expensive as the laser cut work.
 
@@ -250,9 +251,9 @@ So, to ask the local store how much the work will be, take the CAD file and send
 
 For this we'll have 2 different thickness.
 
-The top plate will be made out of clear 5mm acrylic. This will support better all the strees of pusing the buttons and will be see through to use any kind of artwork you like.
+The top plate will be made out of clear 5mm acrylic. This will support better all the stress of pushing the buttons and will be see through to use any kind of artwork you like.
 
-The walls wll be covered in 3mm Black (or white) acrylic. This will be used for protection and to make it look super shiny and cool.
+The walls of the box wll be covered in 3mm Black (or white) acrylic. This will be used for protection and to make it look super shiny and cool. This 3 mm acrylic is totally optional though, you could always make the box 3 mm wider on each side and paint it black, or use a vynil sticker if you like.
 
 Finally the bottom door will be made of the same 3mm black acrylic.
 
@@ -274,37 +275,46 @@ All the acrylic on the top and the sides will not be glued together, they'll be 
 
 ## Assembly / Building the controller
 
-Start by drawing all the holes that you're gonna cut. For this you can use a ruler and a pencil and mark each line on top of the wood. Don't worry about messing up the surface with your pencil because you're gonna be cleaning that later with some sandpaper.
+The first thing is cutting the 4 rectangles that'll make the wood box.
+Start by drawing all the lines that you're gonna cut. For this you can use a ruler and a pencil and mark each line on top of the wood. Don't worry about messing up the surface with your pencil because you're gonna be cleaning that later with some sandpaper.
 
 If you have a good printer you can print the sketch of the top part on a 1:1 scale, and then glue it on top of the MDF and just cut along the lines.
 
-![enter image description here](http://i.imgur.com/L82N5Tn.jpg)
+After cutting all the MDF parts you should have 5 rectangle pieces of MDF. One for the top part and 4 for the walls.
 
-Start by cutting all the pieces, but dont cut the holes yet, you're gonna do that last.
+![enter image description here](http://i.imgur.com/L82N5Tn.jpg)
 
 **Glueing part**
 
-Once you have the 5 main pieces (4 walls and 1 top) put the top upside down and start by gluing one wall to the top. Keep the pieces toghether until the glue dries enough to keep the wall in place.
+Once you have the 5 main pieces (4 walls and 1 top) put the top upside down and start by gluing one wall to the top in a 90° angle. Put glue on the top part and on the side of the wall part that's gonna be in contact with the top part. Keep both pieces together until the glue dries enough to keep the wall in place by itself. Wait a good hour or two so this part is firmly attached.
+
+>Glueing will be easier if the cuts are straight lines.
+
 Then using the first wall as a support glue the second side wall to the top and to the already glued wall.
-Finish by gluing the other walls left, wait 5 or 10 minutes until the glue is mid-dry and clean the excess glue with a slightly wet paper towel.
+Finish by gluing the other walls left, wait 5 or 10 minutes until the glue is mid-dry and clean the excess glue with a slightly wet paper towel or piece of cloth.
 
 Wait 12 hours for the glue to completly dry and measure everything again. You'll need a perfect sized box or the acrylic won't fit well. If the box is larger by 1 or 2 mm, use the 100 grit sand paper to sand it down 1mm each side. Once the measures are right finish it by sanding it with a 180 grit sandpaper.
 
+By now you should have a wood box with the right measures.
+
 **Making the holes**
 
-Now, put the clear top acrylic on top of the box. The acrylic should be 3mm larger on each 4 sides (that's where the 3mm black acrylic on the sides will hide below the clear acrylic. Pretty neat huh). With the top acrylic centered mark with a pencil the 4 corner holes for the bolts.
+Now, we're gonna use the top 5mm clear acrylic to draw where to holes on the box are gonna be. The acrylic should be 3mm larger on each 4 sides (that's where the 3mm black acrylic on the sides will hide below the clear acrylic). With the top acrylic centered mark with a pencil the 4 corner holes for the bolts.
 
 Take your power drill and drill the 4 holes where the bolts fixing the top acrylic will be.
 Put the acrylic again on top and bolt the 4 corners until the acrylic is centered and secured.
+This will keep the acrylic in place while you draw the other bigger holes for the buttons and encoders.
 
-With a pencil draw all the holes that you'll need to make on the top MDF plank, then with a ruler make all the holes 2 or 3 mm bigger on each side (to fit the buttons). You'll end up with holes on the MDF that are slightly bigger than the ones on the acrylic.
+With a pencil draw all the holes that you'll need to make on the top MDF plank, then take a ruler and make a rectangle that's 2 or 3mm bigger on each side. You'll end up with holes on the MDF that are slightly bigger than the ones on the acrylic. This will give space for the buttons.
+
+Now onto making the holes.
 
 For this part you're gonna need a **1" spade bit and a drill.**
-With the drill and the spade bit make a hole on each corner of the bigger hole so the side of the hole you make align with the lines. Next, use the same spade bit and make 4 holes in a cross figure on the knobs part of the top plate. That'll make it easier to cut these parts with a **copingsaw, jigsaw or hacksaw.**
+With the drill and the spade bit make a hole on each corner of the bigger holes so the side of the hole you make align with the lines. Next, use the same spade bit and make 4 holes in a cross figure on the knobs part of the top plate. That'll make it easier to cut these parts with a **copingsaw, jigsaw or hacksaw.**
 
 ![spade bit making a hole](http://i.imgur.com/bAeDM1r.jpg)
 
-After the 1" holes are done pick your saw of preference and start cutting the straight lines of the bigger hole. A jigsaw is the best tool for this part, but a copingsaw or hacksaw is just as good. Use the holes you made to put the saw through.
+After the 1" holes are done pick your saw of preference and start cutting the straight lines of the bigger hole. A jigsaw is the best tool for this part, but a copingsaw or hacksaw is just as good. Use the holes you made to put the saw through and as a starting point for the cutting.
 
 ![enter image description here](http://i.imgur.com/CIyvdin.jpg)
 
@@ -314,7 +324,11 @@ After the 1" holes are done pick your saw of preference and start cutting the st
 
 Sand all the exposed edges with a 180 grit sand paper for that smooth finish.
 
-Lastly do the same with the side black acrylic; mark the holes and drill the holes to mount the side plates and you're done!
+After the top part holes are cut, put the side acrylic pieces on the wood box to draw the holes for the side bolts. 
+Just mark the holes, do the holes with a drill, put the acrylic piece in place with its bolts and repeat with the next piece until all 4 side pieces are in place.
+If you check the bottom of the box, the side acrylic parts should be 3mm longer than the wood box, that's where the bottom door will be encased.
+
+Finish it by installing the 4 magnetic locks. Put them the same distance from the middle, that way the bottom door can be closed even if you put it one side or the other.
 
 ![enter image description here](http://i.imgur.com/jTnnpll.jpg)
 
@@ -323,10 +337,11 @@ Lastly do the same with the side black acrylic; mark the holes and drill the hol
 If you want to paint the box I suggest sanding the box with a 180 grit sandpaper until it's smooth, then coating the hole box with carpenter's glue (this will give it a nice transparent smooth coat to recieve the paint) and finish it by painting it with a **matte white spray paint can**. Or any other color you'd like.
 
 Paint one layer at a time and wait 20 minutes for it to dry before painting a second layer. Repeat until done.
+Also follow the instructions on the spray-can for better results.
 
 ![enter image description here](http://i.imgur.com/Ks8Qf0Q.jpg)
 
->I used a third of the can painting this
+>I used a third of the can painting this.
 
 **Acrylic, buttons, and everything else**
 
@@ -334,11 +349,11 @@ Start by printing the artwork you're gonna use on your controller. If you dont h
 
 >Also, if you don't have a bigger printer or a place to print, you can print a design using 3 pieces of A4 paper, and some tape.
 
-Use a **exacto-knife** or a **cutter** to cut the holes on the artwork. You can do this more easily if you put the acrilic on top and just cut using it as a ruler.
+Use a **exacto-knife** or a **cutter** to cut the holes on the artwork. You can do this more easily if you put the acrilic on top and just cut using the acrylic as a ruler.
 
 Finally put the artwork on the box, and then the clear acrylic on top of the artwork. Keep it fixed with a bolt on each corner.
 
-The **buttons** are easy to install. Just take the plastic nut out and the holder part, put the button through the hole in the acrylic and put the holder and the nut from the other side back again.
+The **buttons** are easy to install. Just take the plastic nut out and the holder part, put the button through the hole in the acrylic and put the holder and the nut from the other side back again. If you made the holes on the box 2 or 3 mm bigger on each side the plastic button should pass through the box hole easily, that way it'll be attached to the acrylic only.
 
 For the **encoders** you'll first need to make a small round dent on each of the 3 screw holes for each encoder. **We need to hide the head of the bolt so it doesn't poke up and scratch our knobs. **
 
@@ -350,7 +365,7 @@ Each encoder has 6 holes, but we're only gonna use 3 of them, if you put the enc
 
 ![enter image description here](http://i.imgur.com/0eS7OKO.jpg)
 
->If you have any problem fitting the encoders through the hole grab a piece of 100 grit sandpaper and sand it down a little bit at a time until the encoder fits. The measures are there for a perfect fit, but the laser cutting machines has a tolerance of 0.1mm that could make the hole a little smaller.
+>If you have any problem fitting the encoders through the hole grab a piece of 100 grit sandpaper and sand it down a little bit at a time until the encoder fits. The measures are there for a perfect fit, but the laser cutting machines has a tolerance of 0.1mm that could make the hole a little smaller and with a tighter fit.
 
 <hr>
 
@@ -394,15 +409,16 @@ The first thing is getting the Teensy board attached to the perfboard, that way 
 
 ![Teensy with pins](https://cdn.sparkfun.com/assets/learn_tutorials/3/8/5/TeensyFlushWithBoard.jpg)
 
-Just put the Teensy over the perfboard, turn it around and solder each pin.
+Just put the Teensy over the perfboard, turn it around and solder each pin to the perfboard.
 
 **If you have a teensy board without pins:**
 
 You can buy strip of pins that can be soldered to the Teensy first and the perfboard later. Pin strips are cheaper than water and can be found in most electronic stuff stores.
 
-If you can't find any pin strip on sale or you're good enough with solder that you want to make it on your own:
+If you can't find any pin strip on sale **and** you're good enough with solder that you want to make it on your own:
 
--- START OF THE RISKY PART OF THE TEENSY BOARD --
+**-- START OF THE RISKY PART OF THE TEENSY BOARD --**
+(Follow these steps only if you don't have a pin strip for your teensy board)
 
 **How to attach the Teensy to a perfboard without a pin strip.**
 
@@ -414,15 +430,15 @@ Cut a 4-5 mm solid piece of wire from some scrap wires and solder it to the teen
 
 Now that you have the Teensy centered and soldered in place with two pins, proceed to solder the other 15 or so pins using more 5mm pieces of solid wire. You'll end up with a Teensy attached to the perfoard in a similar way as I did. (Check out the video below)
 
--- END OF RISKY PART OF THE TEENSY BOARD --
+**-- END OF RISKY PART OF THE TEENSY BOARD --**
 
 **Installing the male headers and the other wires.**
 
 Start by soldering each one of the male PH headers. These PH headers are smaller than the board holes, so you'll need to bend the metal pins on the header a little to make them fit, but after soldering you won't have any issues. 
 
->These smaller PH header can also be changed to normal XH headers but they're bigger and may not fit in a 6x8cm perfboard
+>These smaller PH header can also be changed to normal XH headers but they're bigger and may not fit in a 6x8cm perfboard. I choose to use PH headers only for the available space but you can pick up any of those 2.
 
-Following the next layout solder a thin wire from each pin on the Teensy (from the perfboard, not the teensy itself) to each pin of the header.
+Check the solder layout in the image below. You'll need to solder the wires as it is shown. Solder each wire to the pin on the perfboard.
 
 The common ground will be a line of solder that will join both center pins on each header, then connected to the Teensy GND pin with a wire. We'll leave the grounds at the center for convenience.
 
@@ -430,11 +446,12 @@ For the **encoders** youll need a common 5V line connected to both headers, and 
 
 ![Teensy Layout](http://imgur.com/SZelUBS.png)
 
->NOTICE: I had some electric interference that leave the controller not responding. That may be happening because for all the GND connected to the board. But at the same time other people don't have this issue and might be related to my own teensy. Anyway I'm not a electrician in any way, but I read that using capacitors at the end of each ground might help.
+>NOTICE: If your controller is not working, or some buttons won't respond even if the connections are all good, try updating **bemanitools* to its latest revision.** I had a similar issue fixed by updating bemanitools.
+>If you're using kshootmania, then don't mind the comment about bemanitools.
 
 **Teensy 3.2 PIN layout**
 
-The pins are assigned to every button and encoder. You'll see that the PCB has many pins from 0 to 33 including some Ground points (GND). We'll be using pins from 0 to 3 for the encoders and 4 to 10 for the buttons, and 13 to 19 for the LED lamps. Check the next picture to see the PCB layout:
+The pins are assigned to every button and encoder. You'll see that the PCB has many pins from 0 to 33 including some Ground points (GND). We'll be using pins from 0 to 3 (4 pins) for the encoders and 4 to 10 (7 pins) for the buttons, and 13 to 19 (7 pins) for the LED lamps. Check the next picture to see the PCB layout:
 
 <img style='width: 400px' src='http://i.imgur.com/KPp8c6Y.jpg'></img>
 <img style='width: 400px' src='http://i.imgur.com/l4PatLE.jpg'></img>
@@ -442,85 +459,30 @@ The pins are assigned to every button and encoder. You'll see that the PCB has m
 
 **SOUNDVOLTEX Layout (TEENSY ONLY)**
 
-<table><thead>
-<tr>
-<th>Button</th>
-<th style="text-align: center">Pin #</th>
-<th style="text-align: center">Button #</th>
-<th style="text-align: center">LED Pin #</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Start</td>
-<td style="text-align: center">4</td>
-<td style="text-align: center">Button 1</td>
-<td style="text-align: center">13</td>
-</tr>
-<tr>
-<td>BT-A</td>
-<td style="text-align: center">5</td>
-<td style="text-align: center">Button 2</td>
-<td style="text-align: center">14</td>
-</tr>
-<tr>
-<td>FX-L</td>
-<td style="text-align: center">6</td>
-<td style="text-align: center">Button 3</td>
-<td style="text-align: center">15</td>
-</tr>
-<tr>
-<td>BT-B</td>
-<td style="text-align: center">7</td>
-<td style="text-align: center">Button 4</td>
-<td style="text-align: center">16</td>
-</tr>
-<tr>
-<td>BT-C</td>
-<td style="text-align: center">8</td>
-<td style="text-align: center">Button 5</td>
-<td style="text-align: center">17</td>
-</tr>
-<tr>
-<td>FX-R</td>
-<td style="text-align: center">9</td>
-<td style="text-align: center">Button 6</td>
-<td style="text-align: center">18</td>
-</tr>
-<tr>
-<td>BT-D</td>
-<td style="text-align: center">10</td>
-<td style="text-align: center">Button 7</td>
-<td style="text-align: center">19</td>
-</tr>
-</tbody></table>
+| Button 	| Pin # 	| Button # 	| LED Pin # 	|
+|--------	|-------	|----------	|-----------	|
+| Start  	| 4     	| Button 1 	| 13        	|
+| BT-A   	| 5     	| Button 2 	| 14        	|
+| FX-L   	| 6     	| Button 3 	| 15        	|
+| BT-B   	| 7     	| Button 4 	| 16        	|
+| BT-C   	| 8     	| Button 5 	| 17        	|
+| FX-R   	| 9     	| Button 6 	| 18        	|
+| BT-D   	| 10    	| Button 7 	| 19        	|
 
-
-<table><thead>
-<tr>
-<th>ENCODERS</th>
-<th style="text-align: center">DATA 1</th>
-<th style="text-align: center">DATA 2</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Left knob (VOL-L)
-<td style="text-align: center">0</td>
-<td style="text-align: center">1</td>
-</tr>
-<tr>
-<td>Right knob (VOL-R)
-<td style="text-align: center">2</td>
-<td style="text-align: center">3</td>
-</tr>
-</tbody></table>
+| ENCODERS           	| DATA 1 	| DATA 2 	|
+|--------------------	|--------	|--------	|
+| Left knob (VOL-L)  	| 0      	| 1      	|
+| Right knob (VOL-R) 	| 2      	| 3      	|
 
 >Also you have to connect the encoders to the VUSB pin for the 5v input**
 
->NOTICE: I've noticed that LED's are not that bright using a Teensy. That might be the code or the board I'm not sure since I'm not a coder in any way. I can't fix the code.
+>NOTICE: I've noticed that LED's are not that bright using a Teensy. That might be the code or the board I'm not sure since I'm not the owner of the firmware in any way. I can't fix the code.
 
 **Wires and Crimp connectors**
 
 For this part we'll use the PH 4 pin wires that are 30 cm long. They're harder to get (most sellers only have 15 cm wires) but we'll need all those extra centimeters for this.
+
+>If you changed your PH header for XH headers you'll need XH wires instead.
 
 Each one of these cables have 4 wires (one for each pin), and we already know the 2 center wires will be the GROUND wires form the buttons and the LED lamps.
 
@@ -530,9 +492,9 @@ The 187 connector is the smaller one, used for the switches on the buttons.
 
 The 250 connector is the bigger one used on the LED lamps.
 
-You could also use the 250 connector on the buttons but that might get some disconnections while playing.
+You could also use the 250 connector on the buttons but that might get some disconnections while playing if they get a bit loose.
 
-Crimping is an easy process with the right tools. Just grab the crimp head and the wires, put the crimp in the crimper tool and hold it there. Then put the wires inside the space that is gonna be bent and press it with the tool until the wires is grabbed by the crimp head. Then repeat with the wire grabber part of the crimp.
+Crimping is an easy process with the right tools. Just grab the crimp head and the wires, put the crimp in the crimper tool and hold it there. Then put the wires inside the space that is gonna be bent and press it with the tool until the wire is grabbed by the crimp head. Then repeat with the wire grabber part of the crimp.
 
 If all 7 buttons have crimped wires then it's a matter of connecting everything and you're done!
 
@@ -573,79 +535,22 @@ Now you need to use a soldering iron and some solder to tin the tip of each wire
 
 **PIN LAYOUT (LEONARDO ARDUINO)**
 
-<table><thead>
-<tr>
-<th>Button</th>
-<th style="text-align: center">Pin #</th>
-<th style="text-align: center">Button #</th>
-<th style="text-align: center">LED Pin #</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Start</td>
-<td style="text-align: center">13</td>
-<td style="text-align: center">Button 1</td>
-<td style="text-align: center">6</td>
-</tr>
-<tr>
-<td>BT-A</td>
-<td style="text-align: center">A0</td>
-<td style="text-align: center">Button 2</td>
-<td style="text-align: center">7</td>
-</tr>
-<tr>
-<td>FX-L</td>
-<td style="text-align: center">A1</td>
-<td style="text-align: center">Button 3</td>
-<td style="text-align: center">8</td>
-</tr>
-<tr>
-<td>BT-B</td>
-<td style="text-align: center">A2</td>
-<td style="text-align: center">Button 4</td>
-<td style="text-align: center">9</td>
-</tr>
-<tr>
-<td>BT-C</td>
-<td style="text-align: center">A3</td>
-<td style="text-align: center">Button 5</td>
-<td style="text-align: center">10</td>
-</tr>
-<tr>
-<td>FX-R</td>
-<td style="text-align: center">A4</td>
-<td style="text-align: center">Button 6</td>
-<td style="text-align: center">11</td>
-</tr>
-<tr>
-<td>BT-D</td>
-<td style="text-align: center">A5</td>
-<td style="text-align: center">Button 7</td>
-<td style="text-align: center">12</td>
-</tr>
-</tbody></table>
+| Button 	| Pin # 	| Button # 	| LED Pin # 	|
+|--------	|-------	|----------	|-----------	|
+| Start  	| 13    	| Button 1 	| 6         	|
+| BT-A   	| A0    	| Button 2 	| 7         	|
+| FX-L   	| A1    	| Button 3 	| 8         	|
+| BT-B   	| A2    	| Button 4 	| 9         	|
+| BT-C   	| A3    	| Button 5 	| 10        	|
+| FX-R   	| A4    	| Button 6 	| 11        	|
+| BT-D   	| A5    	| Button 7 	| 12        	|
 
+| ENCODERS           	| DATA 1 	| DATA 2 	|
+|--------------------	|--------	|--------	|
+| Left knob (VOL-L)  	| 0      	| 1      	|
+| Right knob (VOL-R) 	| 2      	| 3      	|
 
-<table><thead>
-<tr>
-<th>ENCODERS</th>
-<th style="text-align: center">DATA 1</th>
-<th style="text-align: center">DATA 2</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Left knob (VOL-L)
-<td style="text-align: center">0</td>
-<td style="text-align: center">1</td>
-</tr>
-<tr>
-<td>Right knob (VOL-R)
-<td style="text-align: center">2</td>
-<td style="text-align: center">3</td>
-</tr>
-</tbody></table>
-
->**Also you have to connect the encoders to the 5V pin for the 5v input**
+>**Also you have to connect the encoders to the 5V pin for the 5v input. You can put 2 wires together for both encoders.**
 
 That leaves pins 2 to 10 for LEDS (9 LEDS, enough for each button)
 The Leonardo also has 3 ground pins, so use 1 for the encoder, 1 for the buttons and the other one for the LEDS.

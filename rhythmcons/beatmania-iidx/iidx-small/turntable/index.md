@@ -1,6 +1,5 @@
 ---
 title: Turntable mod
-header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="http://i.imgur.com/f0vDPlL.png" alt="CONS&STUFF" /></a>
 ---
 
 # Next level ghetto turntable
@@ -8,9 +7,7 @@ header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="
 >Last update: September 10 2017
 - First revision, works with IIDX (new).
 
-<div style='float: center'>
-  <img style='width: 400px' src='http://iidx-diy.pancakeapps.com/pics/pic003.png'></img>
-</div>
+![image](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png)
 
 
 <hr>
@@ -24,9 +21,9 @@ header:   <a target="_blank" href=http://consandstuff.pancakeapps.com><img src="
 
 # Other Projects:
 
-1. [Sound Voltex PC Controller](http://SDVX-DIY.pancakeapps.com/)
-2. [SDVX Minicon for $90](http://SDVX-DIY.pancakeapps.com/minicon)
-3. [Small Arcade controller easy to make](http://consandstuff.pancakeapps.com/other/arcade%20con)
+1. [Sound Voltex PC Controller](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/)
+2. [SDVX Minicon for $90](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon/)
+3. [Small Arcade controller easy to make](http://consandstuff.github.io/othercons/arcade-con/)
 
 <hr>
 
@@ -50,7 +47,7 @@ If you're okay with that, then let's go on!
 
 ## Part List / Hardware 
 
-The turntable will be made entirely of 5mm acrylic pieces. This will make it cheaper (because you'll buy just one width) and it'll make it easier to buy if you already made the other parts of the controller.
+The turntable will be made entirely of 5mm acrylic pieces. This will make it cheaper (because you'll buy just one thickness) and it'll make it easier to buy if you already made the other parts of the controller.
 All in all, this will be cheaper and easier than making it out of aluminum or metal.
 
 ###**Tools and parts**
@@ -59,21 +56,22 @@ All in all, this will be cheaper and easier than making it out of aluminum or me
 - M3 and M5 drill bit (to make bolt holes)
 - 3/8" Spade bit
 - Double cut flat file tool (or any power tool to chamfer the edge of the turntable)
-- Protective glasses
+- Protective glasses (for your 3y3s)
 - Dust mask (for fine acrylic particles **Safety is #1 priority**)
 - Gloves
 - Loctite Super Glue
-- Machine oil (for lube)
+- Machine oil (for lubrication)
 - 4 pcs. M5 35mm bolts (button hexagon head)
 - 4 pcs. M4 9mm screws (flat trumpet head)
+- Also that dented drill bit explained in the last image
 
-###**Acrylic Stuff**
+### **Acrylic Stuff**
 
 The acrylic stuff is all explained in this PDF file. 
 
 >The CAD file will be uploaded soon to the Github repository for the IIDX controller.
 
-[IIDX Turntable ghetto PDF file](http://iidx-diy.pancakeapps.com/turntable/docs/turntable-consandstuff.pdf)
+[IIDX Turntable ghetto PDF file](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/turntable/docs/turntable-consandstuff.pdf)
 
 This is the main structure of the turntable. It has a base that will hold the 600ppr encoder, then it will have three other 5mm pieces to give the main shape of the turntable, and finally a 5mm turntable disc on top. 
 
@@ -112,17 +110,19 @@ B.- The first layer has 4 holes for M5 bolts. These will need a bigger hole in t
 C and D.- Won't need any modifications (Besides the chamfer on the edge).
 E, F and G.- these are the center pieces. These 3 pieces have to be glued together with superglue keeping them centered in place. If they are not centered the turntable will not spin the right way.
 Use the center hole as a guide.
-I.- is the bottom part and it's the one that holds the encoder in place.
+I.- is the bottom part and it's the one that holds the encoder in place to the main box.
 
 The 4 main M5 bolts should be long enough to reach inside the controller from the top of the turntable to the bottom.
 
-**Chamfer**
+**Chamfer / Fillet**
 
-If you bought your acrylic with straight edges and no chamfer then you'll need to do the chamfer yourself.
+If you bought your acrylic with straight edges and no chamfer/fillet then you'll need to do the chamfer/fillet yourself.
 
-What I did was I put everything together with the M5 bolts so the 3 top parts (B, C and D) won't move. I used a table press to keep the 3 pieces in place on a table and then I used the flat file to manually and  slowly do the chamfer in one part of the acrylic until I reached the correct angle, then I rotated the acrylics a little and did the chamfer in the next section. Repeat many times until it was all done. Finished it up with some sand paper to smooth things up.
+What I did was I put everything together with the M5 bolts so the 3 top parts (B, C and D) won't move. I used a table press to keep the 3 pieces in place on a table and then I used a flat file to manually and slowly do the chamfer in one part of the acrylic until I reached the correct angle, then I rotated the acrylics a little and did the chamfer in the next section. Repeat many times until it was all done. Finished it up with some sand paper to smooth things up.
 
-This is a picture of the after and before of the acrylics. I didn't took any pictures during the process sadly.
+>I always kept a dust mask and protective googles and gloves for this. Acrylic dust is bad for your lungs.
+
+This is a picture of the after and before of the acrylics. I didn't take any pictures during the process sadly.
 
 ![enter image description here](http://i.imgur.com/Kfid4XN.png)
 
@@ -147,7 +147,7 @@ Try our Discord channel:
 
 or the direct link:
 
-https://discord.gg/fknwz8s
+[Direct Link](https://discord.gg/fknwz8s)
 
 ## Donations
 

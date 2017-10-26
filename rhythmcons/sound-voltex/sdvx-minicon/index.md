@@ -89,7 +89,6 @@ This is everything you need:
 - 1pc. Arduino Leonardo PCB $18
 - jumper wires pack $5
 - 7pcs. crimp connectors $2 
-- 2pcs. metal hinge $1 (for the door)
 - 2pcs. magnetic lock $2 (for the door)
 - 2pcs. 100 sandpaper $2
 - 2pcs. 180 sandpaper $2
@@ -183,14 +182,13 @@ You can buy 50g. switches if you feel like SANWA's are too stiff.
 <hr>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Minicon -->
 <ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
+     style="display:inline-block;width:728px;height:90px"
      data-ad-client="ca-pub-8300362063942355"
-     data-ad-slot="2993192877"></ins>
+     data-ad-slot="6884140303"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 <hr>

@@ -19,7 +19,13 @@ Feel free to comment on any project on my discord server [https://discord.gg/fkn
 <iframe src="https://discordapp.com/widget?id=101851954677837824&theme=dark" width="350" height="200" allowtransparency="true" frameborder="0"></iframe>
 
 ----------
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-8300362063942355",
+    enable_page_level_ads: true
+  });
+</script>
 
 # SOUND VOLTEX CONTROLLERS
 

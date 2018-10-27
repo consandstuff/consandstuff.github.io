@@ -8,13 +8,13 @@ title: IIDX CON (new)
 - Added a turntable for this ghetto controller.
 
 
-![thumbnail](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png)
+![thumbnail](/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png)
 
-Old version can be found here: [OLD VERSION](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/)
+Old version can be found here: [OLD VERSION](/rhythmcons/beatmania-iidx/iidx-small-old/)
 <hr>
 
 **How to make a better turntable??**
-Go to: [Tunrtable MOD](https://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/turntable/)
+Go to: [Tunrtable MOD](/rhythmcons/beatmania-iidx/iidx-small/turntable/)
 
 # Index
 
@@ -29,10 +29,10 @@ Go to: [Tunrtable MOD](https://consandstuff.github.io/rhythmcons/beatmania-iidx/
 
 # Other Projects:
 
-1. [Sound Voltex PC Controller](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/)
-2. [IIDX - SDVX Hybrid Controller (incomplete)](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid/)
-3. [Sound Voltex Minicon](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon/)
-4. [Small Arcade Controller](http://consandstuff.github.io/othercons/arcade-con/)
+1. [Sound Voltex PC Controller](/rhythmcons/sound-voltex/sdvx-normal/)
+2. [IIDX - SDVX Hybrid Controller (incomplete)](/rhythmcons/beatmania-iidx/iidx-hybrid/)
+3. [Sound Voltex Minicon](/rhythmcons/sound-voltex/sdvx-minicon/)
+4. [Small Arcade Controller](/othercons/arcade-con/)
 
 <hr>
 
@@ -67,7 +67,7 @@ Included in this tutorial are two versions on how to aproach this:
 For both versions the box is exactly the same, the only thing that'll change is the wiring stuff at the end.
 The code included in my github repository is for the **Leonardo board only.**
 
-![controller](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic003.png)
+![controller](/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic003.png)
 
 
 <hr> 
@@ -213,19 +213,19 @@ This is all the stuff you'll need.
 | Bottom door    	| 3 mm      	| black          	| 1        	|
 
   **Turntable disc**
-![enter image description here](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic013.png)
+![enter image description here](/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic013.png)
 
 **Turntable round base**
-  ![Turntable round](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic012.png)
+  ![Turntable round](/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic012.png)
     
 **Turntable square base**
-![Turntable square](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic011.png)
+![Turntable square](/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic011.png)
 
  **Keyboard base**
-![Keyboard base](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic010.png)
+![Keyboard base](/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic010.png)
 
   **Top cover plate (the side cover are just rectangles, same with the bottom door)**
-![Top cover plate](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic009.png)
+![Top cover plate](/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic009.png)
 
 The acrylic parts are not glued together, they're just kept in place with the nuts and bolts. **No glue!**
 
@@ -318,7 +318,7 @@ Now just put the artwork between the clear acrylic and the top cover and install
 
 ![isometric](http://imgur.com/N30poSj.jpg)
 
-You can download this image [here](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/IIDX%20con.pdf)
+You can download this image [here](/rhythmcons/beatmania-iidx/iidx-small-old/pics/IIDX%20con.pdf)
 
 <hr>
 
@@ -335,18 +335,18 @@ First let's talk about **microswitches**.
 Microswitches can have 2 or 3 contacts depending if they're chinese or Omron brand switches.
 The first one usually have 3 contacts: the one from bellow it's the ground (GND) and the lower right one is the input (NORMALLY OPEN). The third one on the upper right it's always closed (NORMALLY CLOSED), we won't use the NC pin.  Check out this diagram:
 
-![Cool switches](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic014.jpg)
+![Cool switches](/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic014.jpg)
 
 For the LEONARDO we usually daisy-chain all the GROUND/COMMON wires to a single one. This is completly normal and will make the job a lot easier.
 >Thanks to LEONARDOjoy tutorial for this image.
 
-![daisy-chain'd](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic015.jpg)
+![daisy-chain'd](/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic015.jpg)
 
 Then we have the **encoder**.
 
 The high quality encoders (600ppr) have 4 wires coming out: Data A and B (to send the scratching information), 5V input (to give the encoder the power to work) and GND (which is the ground / common), like shown here:
 
-![encoders stuff](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic020.png)
+![encoders stuff](/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic020.png)
 
 The 2 data wires go to the pins in the PIN LAYOUT, and the 5V wire goes to the 5V pin on the Leonardo PCB.
 
@@ -386,7 +386,7 @@ Now you need to use a soldering iron and some solder to tin the tip of each wire
 
 The pins are assigned to every button and encoder. You'll see that the PCB has many pins from A0 to A5, and from 0 to 13, so you'll have 19 pins in total. Remember that buttons use one pin, but encoders will use 2 pins plus the 5V pin. The PCB also has 3 grounds (GND) to choose from, you'd want to use 1 ground pin for the LEDS, 1 pin for the Buttons and 1 pin for the ENCODERS, just to be safe.
 
-![Arduino Leonardo](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic019.jpg)
+![Arduino Leonardo](/rhythmcons/beatmania-iidx/iidx-small-old/pics/pic019.jpg)
 
 **Beatmania IIDX pin layout**
 
@@ -447,7 +447,7 @@ Now check your connections, close up the controller, connect the USB cable and l
 
 This is a special skin for this IIDX controller to put between the keypad acrilic and the top black cover.
 
-![skin IIDX](http://consandstuff.github.io/skins/iidx.png)
+![skin IIDX](/skins/iidx.png)
 >Right click, Save Image as.... Then print it in a **Letter** or **A4** sized paper on a 100% scale. If the printer has an option to *stretch to fit* disable it. It looks better on a Laser printer.
 
 

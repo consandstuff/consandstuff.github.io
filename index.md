@@ -35,17 +35,17 @@ These are instructions to make a 49x25x10cm controller to play Soundvoltex on yo
 
 The controller is made out of MDF wood and acrylic on top and on the sides. It includes both knobs and 7 buttons spaced like an arcade.
 
-[Click here for instructions](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal)
+[Click here for instructions](/rhythmcons/sound-voltex/sdvx-normal)
 
-<img style='width: 350px' src='http://i.imgur.com/JQ6FD6F.jpg'></img> 
+<img style='width: 350px' src='http://i.imgur.com/JQ6FD6F.jpg'>
 
 ## Sound Voltex Minicon
 
 The controller size is 20x20x7cm and the USB cable can be unplugged from the outside.
 
-[Click here for instructions](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon)
+[Click here for instructions](/rhythmcons/sound-voltex/sdvx-minicon)
 
-<img style='width: 300px' src='http://i.imgur.com/ThOg59V.png'></img>
+<img style='width: 300px' src='http://i.imgur.com/ThOg59V.png'>
 
 ----------
 
@@ -56,10 +56,10 @@ The controller size is 20x20x7cm and the USB cable can be unplugged from the out
 
 This is the first controller I made. The measures for the controller and the buttons were really hard to get. I took information from various chinese blogs and some from the DJDAO website until I came with what the controller is now. The only thing that bothers me with this design is the turntable, because it's made using a rotary encoder instead of an optic encoder like DJDAO's, mostly because those parts are harder to get and are a little more expensive. Still, the turntable works great.
 
-[Click here for instructions](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small)
+[Click here for instructions](/rhythmcons/beatmania-iidx/iidx-small)
 
 
-<img style='width: 300px' src='http://consandstuff.pancakeapps.com/IMG/IIDX.png'></img>
+<img style='width: 300px' src='/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png'>
 
 ### Beatmania MINI-IIDX (?)
 
@@ -72,7 +72,7 @@ This is an incomplete failure of a controller. I tried to make a controller that
 
 The controller is pretty much the same as the Beatmania controller, but the keypad has holes for 2 extra FX buttons and 2 knobs.
 
-[Click here for instructions](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-hybrid)
+[Click here for instructions](/rhythmcons/beatmania-iidx/iidx-hybrid)
 
 
 # OTHER CONTROLLERS
@@ -81,7 +81,7 @@ The controller is pretty much the same as the Beatmania controller, but the keyp
 
 This is a simple controller made with only available stuff from the internet, no custom circuit boards or extra soldering. This is as easy as it gets.
 
-[Click here for instructions](http://consandstuff.github.io/othercons/arcade-con)
+[Click here for instructions](/othercons/arcade-con)
 
 ----------
 

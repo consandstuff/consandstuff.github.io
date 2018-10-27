@@ -70,13 +70,13 @@ Included in this tutorial you can choose from 2 variations:
 - Beatmania IIDX Controller (9 buttons + Turntable + 9 LEDs)
 
 
-  <img style='width: 300px' src='/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png'></img>
+  <img style='width: 300px' src='/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png'>
 
 
 - Beatmania IIDX+SDVX Controller (9 buttons + Turntable + 2 Knobs + 5 LEDs) 
 
 
-  <img style='width: 300px' src='/rhythmcons/beatmania-iidx/iidx-small/pics/pic002.png'></img>
+  <img style='width: 300px' src='/rhythmcons/beatmania-iidx/iidx-small/pics/pic002.png'>
 
 
 You can either build just one of them or build both.
@@ -102,7 +102,7 @@ Most of these links are from chinese webpages that give world-wide free shipping
 
 ### Arduino
 
-  <img style='width: 250px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic004.jpg'></img>
+  <img style='width: 250px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic004.jpg'>
 
 
 [Arduino Leonardo **$10** Chinese shop](http://www.dx.com/p/diy-leonardo-r3-module-for-arduino-works-with-official-arduino-boards-blue-376823#.WH4Ie_nhAVA)
@@ -112,26 +112,26 @@ Chinese knock-off works just fine.
 
 ### Encoders
 
-  <img style='width: 200px' src='http://http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic005.png'></img>
+  <img style='width: 200px' src='http://http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic005.png'>
 
 [High Quality rotary Encoders (600ppm) **$10**](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20170718095552&SearchText=encoder+600)
 This one is for the turntable. Alternatively you can use optical encoders, but those are not included in the code, nor do I know how to use them.
 
- <img style='width: 200px' src='http://www.mouser.com/images/bourns/images/PEC12R.jpg'></img>
+ <img style='width: 200px' src='http://www.mouser.com/images/bourns/images/PEC12R.jpg'>
 
 [Low Quality Encoders (24ppm) **$0.70**](https://es.aliexpress.com/item/1pcs-Rotary-encoder-code-switch-EC11-audio-digital-potentiometer-with-switch-5Pin-handle-length-20mm/32655246773.html?spm=2114.13010608.0.0.3phRJQ)
 You'll need 2 of these for both knobs. Alternatively you can use 2 High Quality encoders for the knobs, but I found that the cheap ones works just fine. Using 3 high quality encoders would need a new code anyway.
 
 ### Knobs
 
-  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic006.png'></img>
+  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic006.png'>
 
 Option 1 (recomendable): [25x22 aluminium knobs **$7.20 each**](https://es.aliexpress.com/item/Machined-Solid-Aluminum-Volume-Control-Set-Potentiometer-knob-HIFI-Car-Audio-Tube-amplifier-Headphone-AMP-DIY/32346083222.html?spm=2114.13010608.0.0.3phRJQ)
 The hybrid controller is smaller than a arcade SDVX controller, so it's a little better to have thinner knobs.
 
 Option 2 (Arcade size): [30x22 aluminium knobs **$5 each**](http://www.ebay.com/itm/1PCS-30mmDIAx22-Aluminum-STEREO-VOLUME-CONTROL-KNOB-/380905947186?pt=LH_DefaultDomain_0&hash=item58afc38032) 
 
-  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic007.png'></img>
+  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic007.png'>
 
 Option 3 [Cheap-o small knobs **$1.70 each**](http://www.dx.com/p/jtron-volume-knob-aluminum-knob-potentiometer-knob-cap-silver-297005)
 Check the Gallery, these are really cheap aluminium knobs, but they do the job.
@@ -170,7 +170,7 @@ Original Arcade Feel = 100g spring + 50g microswitch
 [Jumper Wires **$9**](http://www.dx.com/p/pvc-male-to-female-arduino-dupont-cables-multicolored-30cm-307052#.WH4I3_nhAVA)
 Jumper wires are cheap and you can buy them locally or in china, and will make this work 200% easier. 40 cm long male-female jumper wires are ok, you'll need one for each conection, so it'll be 4 per button (36 total) and 3 per encoder (6 total).
 
-  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic008.png'></img>
+  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic008.png'>
 
 [Crimp conectors 50 pcs. **$5**](http://www.dx.com/p/6-3mm-female-spade-crimp-terminal-connector-set-w-waterproof-covers-silver-50-pcs-202529#.WH4I_PnhAVA)
 Solder these to the jumper cables to make it easier to change microswitches if they fail.You can also buy them on your local hardware store.
@@ -185,27 +185,27 @@ You will need this.
 Most of these parts should be CNC cut or laser cut (which is a little expensive). You can also use a cardboard box or wood planks.
 I used clear acrylic because it's cheaper, also using only one thickness will make it even less expensive.
 
-  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic009.png'></img>
+  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic009.png'>
   
 **Main mounting plate**
 * 3 or 5mm Black/Clear Acrylic with holes for button pad and disc encoder, also screw holes. I used 5mm clear acrylic, but I found out it's better to use 3mm black acrylic fr the DJDAO FPS look.
 
-  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic010.png'></img>
+  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic010.png'>
   
 **Button pads**
 * 5mm Black/Clear acrylic with holes for buttons and encoders. Black looks way better, I used clear.
 
-  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic011.png'></img>
+  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic011.png'>
   
 **Turntable mounting plate**
 * 5mm Clear acrylic with holes for encoder and screws.
 
-  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic012.png'></img>
+  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic012.png'>
   
 **Turntable base**
 * 10mm (or 2x5mm) round discs with holes for encoder and mounting screws. Use this base to bring your turntable to your desirable height.
 
-  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic013.png'></img>
+  <img style='width: 200px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic013.png'>
   
 **Turntable disc**
 * 3mm or 5mm round disc with hole to fit the encoder. You can also cover this with a rubber skin for maximum gripness. The acrylic itself is really slippery.
@@ -216,7 +216,7 @@ I used clear acrylic because it's cheaper, also using only one thickness will ma
 
 I used what was available on the store, but on a next revision I'd go for 9mm walls, 3mm base and 3mm door, posibly made of acrylic.
 
- <img style='width: 500px' src='http://i.imgur.com/CjoDN6Y.jpg'></img>
+ <img style='width: 500px' src='http://i.imgur.com/CjoDN6Y.jpg'>
 
 You can find the CAD file in the github code page. (coming soon)
 <hr>
@@ -232,16 +232,16 @@ First let's talk about microswitches.
 Microswitches can have 2 or 3 contacts depending if they're chinese or Omron brand switches.
 The first one usually have 3 contacts: the one from bellow it's the ground (GND) and the lower right one is the input. The third one on the upper right it's always closed, we won't use it. Omron switches come only with the lower and lower right contacts. Check out this diagram:
 
-<img style='width: 800px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic014.jpg'></img>
+<img style='width: 800px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic014.jpg'>
 
 You can daisy-chain all the grounds in a single wire like this diagram:
 >Thanks to LEONARDOjoy tutorial for this image.
 
-<img style='width: 800px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic015.jpg'></img>
+<img style='width: 800px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic015.jpg'>
 
 But what I'm doing is have a single wire that has both the Input pin and the LED pin, with one common ground. The three wires then go to the breadboard.
 
-<img style='width: 500px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic016.png'></img>
+<img style='width: 500px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic016.png'>
 
 That way you'll have one single wire coming from a single button, instead of a single wire connected to every button (which is kind of messy)
 
@@ -250,15 +250,15 @@ Then we have the **encoders**.
 
 This is how you wire the cheap ones (24ppr)
 
-<img style='width: 400px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic017.jpg'></img>
+<img style='width: 400px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic017.jpg'>
 
 You'll end up with a single wire like this:
 
-<img style='width: 400px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic018.png'></img>
+<img style='width: 400px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic018.png'>
 
 And for the high quality encoders (600ppr) you should wire it like this:
 
-<img style='width: 400px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic020.png'></img>
+<img style='width: 400px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic020.png'>
 
 These encoders nees a 5v input from the PCB. The Leaonardo PCB has a 5v output (marked as 5v pin) so that's where you should plug that wire.
 
@@ -267,7 +267,7 @@ These encoders nees a 5v input from the PCB. The Leaonardo PCB has a 5v output (
 
 The pins are assigned to every button and encoder. You'll see that the PCB has many pins from A0 to A5, and from 0 to 13, so you'll have 19 pins in total. Remember that buttons use one pin, but encoders will use 2 pins for the cheap ones and 3 pins for the high quality (Pending revision). The PCB also has 3 grounds (GND) to choose from.
 
-<img style='width: 400px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic019.jpg'></img>
+<img style='width: 400px' src='http://consandstuff.pancakeapps.com/iidx/hybrid/pics/pic019.jpg'>
 
 
 This table shows configuration for both keypad layouts.

@@ -237,7 +237,7 @@ The first one usually have 3 contacts: the one from bellow it's the ground (GND)
 You can daisy-chain all the grounds in a single wire like this diagram:
 >Thanks to LEONARDOjoy tutorial for this image.
 
-<img style='width: 800px' src='pics/pic015.jpg'>
+<img style='width: 800px' src='pics/pic015.JPG'>
 
 But what I'm doing is have a single wire that has both the Input pin and the LED pin, with one common ground. The three wires then go to the breadboard.
 

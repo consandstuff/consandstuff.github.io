@@ -37,7 +37,7 @@ The controller is made out of MDF wood and acrylic on top and on the sides. It i
 
 [Click here for instructions](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal)
 
-<img style='width: 350px' src='http://i.imgur.com/JQ6FD6F.jpg'></img> 
+<img style='width: 350px' src='http://i.imgur.com/JQ6FD6F.jpg'>
 
 ## Sound Voltex Minicon
 
@@ -45,7 +45,7 @@ The controller size is 20x20x7cm and the USB cable can be unplugged from the out
 
 [Click here for instructions](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon)
 
-<img style='width: 300px' src='http://i.imgur.com/ThOg59V.png'></img>
+<img style='width: 300px' src='http://i.imgur.com/ThOg59V.png'>
 
 ----------
 
@@ -59,7 +59,7 @@ This is the first controller I made. The measures for the controller and the but
 [Click here for instructions](http://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small)
 
 
-<img style='width: 300px' src='http://consandstuff.pancakeapps.com/IMG/IIDX.png'></img>
+<img style='width: 300px' src='/rhythmcons/beatmania-iidx/iidx-small/pics/pic003.png'>
 
 ### Beatmania MINI-IIDX (?)
 

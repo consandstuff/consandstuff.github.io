@@ -360,7 +360,7 @@ BUtton 2 and 6 are not used in SoundVoltex unless you want to use them as the Se
 <td style="text-align: center">3</td>
 </tr>
 <tr>
-<td>Encoder Turntable
+<td>Encoder Turntable</td>
 <td style="text-align: center">4</td>
 <td style="text-align: center">5</td>
 </tr>
@@ -444,7 +444,7 @@ That leaves pin 6 to 10 for LEDS (5 buttons)
 </tr>
 </thead><tbody>
 <tr>
-<td>Encoder Tuntable
+<td>Encoder Tuntable</td>
 <td style="text-align: center">0</td>
 <td style="text-align: center">1</td>
 </tr>

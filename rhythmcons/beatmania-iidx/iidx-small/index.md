@@ -4,7 +4,7 @@ title: IIDX CON (new)
 
 # Beatmania IIDX PC Controller
 
->Last update: Spetember 3rd 2017
+>Last update: September 3rd, 2017
 - Added a turntable for this ghetto controller.
 
 

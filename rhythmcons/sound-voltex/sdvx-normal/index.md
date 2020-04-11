@@ -4,6 +4,9 @@ title: SDVX CON
 
 # SDVX PC Controller (DIY)
 
+>Another update: April 11th 2020
+- It's been almost 3 years.
+- I fixed some pictures not showing.
 >Last update: July 31th 2017
 - Finished controller, check out the video at the end of the page.
 - Fixed position of the knobs. Check the github page.
@@ -234,9 +237,9 @@ You can cut the main rectangles and do the fine cuts yourself at home.
 
 Keep in mind that this box's measures are 3mm short on each side so you can fit the acrylic on the sides of the controller like the controller I made. If you wished to not use any acrylic on the side please add 6mm to the lenght of each side piece of wood.
 
-![Controller Box](http://sdvx-diy.pancakeapps.com/pics/pic028.jpg)
+![Controller Box](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/pics/pic028.jpg)
 
-![box measures](http://sdvx-diy.pancakeapps.com/pics/box%20measures.png)
+![box measures](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/pics/Box%20Measures.png)
 
 **Acrylic stuff**
 

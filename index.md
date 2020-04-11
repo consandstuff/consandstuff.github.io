@@ -6,8 +6,10 @@
 
 # Notice
 
->I'm migrating the webpage from Pancake.io to github pages so it's posible that some links might not work at all, or some images might be missing. Please be patient.
->Octobre 12th 2017
+>Update April 11th 2020
+It's been almost 3 years and the page is still running!
+Some of the instructions might be not up to date since 3D printing is a thing now and it's easier to make your own parts than it was when I started. 
+I suggest everyone to visit owr discord server for better support! We have over 800 users and at least 35 Controller Makers that have experience building their own and can help you.
 
 
 # About

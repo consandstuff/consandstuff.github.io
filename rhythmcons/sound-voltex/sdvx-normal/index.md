@@ -134,6 +134,12 @@ Then add the 4 **usb_arcade** and **usb_desc** files inside yout **core/teensy3*
 >Sometimes windows won't recognize the controller as a USB device to test the buttons.
 >For testing the buttons try http://html5gamepad.com/
 
+### Alternative code from user KucklesLee (from Cons&Stuff discord)
+
+For Leonardo users there's another more reifned code you can also try.
+This code has been made by **KnucklesLee** and you can get it form his Github repositories.
+https://github.com/knuckleslee/RhythmCodes 
+
 <hr>
 
 ## Part List / Hardware

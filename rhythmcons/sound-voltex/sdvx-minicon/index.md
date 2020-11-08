@@ -124,21 +124,21 @@ Imperial: 7.9"x7.9"x2.7" (7.9x7.9x3.5" to the top of the knob)
 
 #### PCB 
 
-* [Aurduino Leonardo](http://www.ebay.com/itm/Leonardo-R3-Pro-Micro-ATmega32U4-Board-Arduino-Compatible-IDE-free-USB-cable-/201499040028)
+* Aurduino Leonardo [Amazon](https://www.amazon.com/s?k=Arduino+Leonardo), [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=arduino+leonardo), [AliExpress](https://www.aliexpress.com/af/arduino-leonardo.html?d=y&origin=n&SearchText=arduino+leonardo)
 
 #### Encoders
 
-* [Cheap 24ppr rotary encoder](https://es.aliexpress.com/store/product/Original-Rotary-encoder-code-switch-EC11-audio-digital-potentiometer-with-switch-5Pin-handle-length-20mm-free/1022067_1569311119.html?ws_ab_test=searchweb0_0,searchweb201602_1_10152_10065_10151_10068_10136_10137_10060_10138_10155_10062_10156_10154_10056_10055_10054_10059_10099_10103_10102_10096_10148_10147_10052_10053_10142_10107_10050_10143_10051_10173_10084_10083_10080_10082_10081_10110_10111_10112_10113_10114_10037_10032_10078_10079_10077_10073_10070_10123_10124,searchweb201603_2,afswitch_1,ppcSwitch_2&btsid=e93b07c9-0124-4a42-bb06-133fa7152dc4&algo_expid=039da62e-39ab-4370-a9e4-1ebcd9a92daa-6&algo_pvid=039da62e-39ab-4370-a9e4-1ebcd9a92daa)
+* 24PPR Rotary Encoders [Amazon](), [Ebay](), [AliEpxress]()
  
 #### Knobs
 
-* Option 1 (Arcade size): [30x22 aluminium knobs **$5 each**](http://www.ebay.com/itm/1PCS-30mmDIAx22-Aluminum-STEREO-VOLUME-CONTROL-KNOB-/380905947186?pt=LH_DefaultDomain_0&hash=item58afc38032) 
+* Option 1 (Arcade size): 30x22 aluminium knobs  [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=30x22+aluminium+knobs), [AliExpress](https://www.aliexpress.com/af/30x22-aluminium-knob.html?d=y&origin=n&SearchText=30x22+aluminium+knob)
 
-* Option 2 (perfect size for a minicon): [25x22 aluminium knobs **$7.20 each**](https://es.aliexpress.com/item/Machined-Solid-Aluminum-Volume-Control-Set-Potentiometer-knob-HIFI-Car-Audio-Tube-amplifier-Headphone-AMP-DIY/32346083222.html?spm=2114.13010608.0.0.3phRJQ)
+* Option 2 (perfect size for a minicon): 25x22 aluminium knobs [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=25x22+aluminium+knobs), [AliEpxress](https://www.aliexpress.com/af/30x22-aluminium-knob.html?d=y&origin=n&SearchText=25x22+aluminium+knob)
 
 #### Buttons
 
-* [Chinese Beatmania Buttons](https://es.aliexpress.com/store/product/New-Beatmania-IIDX-LED-Illuminated-7-Rectangular-2-Square-LED-Light-Push-Buttons-For-Arcade-Machine/821292_32736269068.html?ws_ab_test=searchweb0_0,searchweb201602_1_10152_10065_10151_10068_10136_10137_10060_10138_10155_10062_10156_10154_10056_10055_10054_10059_10099_10103_10102_10096_10148_10147_10052_10053_10142_10107_10050_10143_10051_10173_10084_10083_10080_10082_10081_10110_10111_10112_10113_10114_10037_10032_10078_10079_10077_10073_10070_10123_10124,searchweb201603_2,afswitch_1,ppcSwitch_2&btsid=c0968909-24de-429c-9c00-5c29e33852e2&algo_expid=00e0ef6f-72d1-473d-aeab-91689850b344-3&algo_pvid=00e0ef6f-72d1-473d-aeab-91689850b344)
+* 45mm Rectangle Buttons [AliExpress](https://www.aliexpress.com/af/button-iidx.html?d=y&origin=n&SearchText=button+iidx), [IST Mall (korean store)](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239)
 
 Chinese and Sanwa buttons include the microswitch. You dont have to buy them twice.
 Unless you want better microswitches, then go with Omrons.
@@ -155,10 +155,9 @@ Switch/Spring configuration on SANWAS is 50gr spring and 100gr switch.
 
 ### Microswitch
 
-If you need more switches you can get them here:
+If you need better switches you can get them here:
 
-* [Cheap Chinese Microswitch 10 pcs. **$8**](https://es.aliexpress.com/store/product/Free-Shipping-10pcs-Microswitch-Sensitive-Switches-Push-Button-Switches-16A-250VAC-5E4-KW7-02-CE-CQC/1759035_32733952931.html?spm=2114.30011108.3.213.DUTqmP&ws_ab_test=searchweb0_0,searchweb201602_6_10065_10068_10000009_10084_10000025_10083_10080_10000029_10082_10081_10000028_10110_10111_10060_10112_10113_10062_10114_10115_10056_10055_10037_10054_10059_10032_10099_10078_10079_10000022_10077_10000012_10103_10073_10102_10000015_10096_10000018_10000019_10052_10053_10107_10050_10106_10051,searchweb201603_9,afswitch_4_afChannel,single_sort_2_default&btsid=67520e96-47af-4dcc-99c7-4b7d0847a0cd)
-* [Omron D2MV-01-1C3 (50gr.) (10 pcs.)**$75** Ebay](http://www.ebay.com/itm/262495416199)
+* [Omron D2MV-01-1C3 (50gr.) (10 pcs.) Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Omron+D2MV-01-1C3)
 * [Omron D2MV-01-1C3 (50gr.) **$3 each** Rakuten Global](http://global.rakuten.com/en/store/sanwadenshi/item/ilumb_223/)
 
 >**FYI:**
@@ -171,13 +170,16 @@ You can buy 50g. switches if you feel like SANWA's are too stiff.
 
 >Chinese buttons come with 200g switch.
 
+Check my video on how to mod your chinese switches
+<iframe width="1817" height="808" src="https://www.youtube.com/embed/QHEgxLOz4-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Misc
 
-* [Jumper Wires **$9**](http://www.dx.com/p/pvc-male-to-female-arduino-dupont-cables-multicolored-30cm-307052#.WH4I3_nhAVA)
-* [Crimp conectors 50 pcs. **$5**](http://www.dx.com/p/6-3mm-female-spade-crimp-terminal-connector-set-w-waterproof-covers-silver-50-pcs-202529#.WH4I_PnhAVA)
-* [60x40mm perfboard **$0.3**](https://es.aliexpress.com/item/86036-Free-shipping-10pcs-Double-Side-Prototype-PCB-diy-Universal-Printed-Circuit-Board-4x6cm/32656277833.html)
-* [4pin molex 2.54 wires **$0.2**](https://es.aliexpress.com/item/20-Sets-PH-2-0mm-JST-2-3-4-5-6-7-8-9-10-12P/32782287584.html)
-* [6pin molex 2.54 wires **$0.3**](https://es.aliexpress.com/item/20-Sets-PH-2-0mm-JST-2-3-4-5-6-7-8-9-10-12P/32782287584.html)
+* [Jumper Wires **$9**]()
+* [Crimp conectors **$5**]()
+* [60x40mm perfboard **$0.3**]()
+* [4pin JST XH wires **$0.2**]()
+* [6pin JST XH wires **$0.3**]()
 
 <hr>
 
